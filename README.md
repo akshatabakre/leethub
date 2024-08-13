@@ -6,6 +6,7 @@ Record of leetcode submissions on github
 ## Math
 |  |
 | ------- |
+| [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/akshatabakre/leethub/tree/master/2556-convert-the-temperature) |
 ## Two Pointers
@@ -16,4 +17,12 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
+## Array
+|  |
+| ------- |
+| [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 <!---LeetCode Topics End-->
