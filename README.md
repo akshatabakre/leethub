@@ -21,6 +21,7 @@ Record of leetcode submissions on github
 ## Array
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 ## Bit Manipulation
 |  |
@@ -34,4 +35,8 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
