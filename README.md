@@ -31,6 +31,7 @@ Record of leetcode submissions on github
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akshatabakre/leethub/tree/master/0014-longest-common-prefix) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 ## Simulation
 |  |
@@ -41,4 +42,8 @@ Record of leetcode submissions on github
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshatabakre/leethub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
