@@ -8,6 +8,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
+| [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/akshatabakre/leethub/tree/master/2556-convert-the-temperature) |
@@ -38,6 +39,7 @@ Record of leetcode submissions on github
 | [0014-longest-common-prefix](https://github.com/akshatabakre/leethub/tree/master/0014-longest-common-prefix) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 ## Simulation
 |  |
 | ------- |
@@ -69,4 +71,8 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Number Theory
+|  |
+| ------- |
+| [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 <!---LeetCode Topics End-->
