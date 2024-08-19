@@ -40,6 +40,7 @@ Record of leetcode submissions on github
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Trie
 |  |
 | ------- |
