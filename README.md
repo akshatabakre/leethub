@@ -26,6 +26,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -69,6 +70,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
@@ -79,4 +81,8 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
+## Sorting
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
