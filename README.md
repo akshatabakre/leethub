@@ -24,6 +24,7 @@ Record of leetcode submissions on github
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshatabakre/leethub/tree/master/0001-two-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -69,6 +70,7 @@ Record of leetcode submissions on github
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshatabakre/leethub/tree/master/0001-two-sum) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
