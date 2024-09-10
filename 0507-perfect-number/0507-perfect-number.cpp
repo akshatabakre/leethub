@@ -7,6 +7,9 @@ public:
                 cout<<i<<" is divisor"<<endl;
                 sumofdiv+=i;
                 cout<<sumofdiv<<endl;
+                if(sumofdiv>num){
+                    return false;
+                }
             }
         }
         cout<<sumofdiv<<endl;
