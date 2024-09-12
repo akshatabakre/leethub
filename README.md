@@ -7,6 +7,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/akshatabakre/leethub/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/akshatabakre/leethub/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
@@ -53,6 +54,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshatabakre/leethub/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/akshatabakre/leethub/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
@@ -61,6 +63,7 @@ Record of leetcode submissions on github
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 ## Greedy
 |  |
