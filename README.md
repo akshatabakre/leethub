@@ -26,6 +26,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Record of leetcode submissions on github
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akshatabakre/leethub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -49,6 +51,7 @@ Record of leetcode submissions on github
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akshatabakre/leethub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akshatabakre/leethub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
