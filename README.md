@@ -20,6 +20,7 @@ Record of leetcode submissions on github
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
@@ -60,6 +61,7 @@ Record of leetcode submissions on github
 | [0006-zigzag-conversion](https://github.com/akshatabakre/leethub/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/akshatabakre/leethub/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/akshatabakre/leethub/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
