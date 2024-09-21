@@ -91,6 +91,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshatabakre/leethub/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/akshatabakre/leethub/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -135,4 +136,8 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/akshatabakre/leethub/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
