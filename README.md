@@ -36,6 +36,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatabakre/leethub/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
@@ -68,6 +69,7 @@ Record of leetcode submissions on github
 | [0006-zigzag-conversion](https://github.com/akshatabakre/leethub/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/akshatabakre/leethub/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akshatabakre/leethub/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
@@ -107,6 +109,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatabakre/leethub/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -126,6 +129,7 @@ Record of leetcode submissions on github
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
