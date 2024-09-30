@@ -44,6 +44,7 @@ Record of leetcode submissions on github
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
@@ -124,6 +125,7 @@ Record of leetcode submissions on github
 | [0205-isomorphic-strings](https://github.com/akshatabakre/leethub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
