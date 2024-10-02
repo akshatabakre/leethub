@@ -41,6 +41,7 @@ Record of leetcode submissions on github
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ Record of leetcode submissions on github
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/akshatabakre/leethub/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/akshatabakre/leethub/tree/master/1054-complement-of-base-10-integer) |
