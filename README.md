@@ -19,6 +19,7 @@ Record of leetcode submissions on github
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/akshatabakre/leethub/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/akshatabakre/leethub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Record of leetcode submissions on github
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akshatabakre/leethub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +125,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
