@@ -8,6 +8,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/akshatabakre/leethub/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/akshatabakre/leethub/tree/master/0507-perfect-number) |
@@ -72,6 +73,7 @@ Record of leetcode submissions on github
 | [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akshatabakre/leethub/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/akshatabakre/leethub/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/akshatabakre/leethub/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
