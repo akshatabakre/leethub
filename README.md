@@ -32,6 +32,7 @@ Record of leetcode submissions on github
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Brainteaser
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Record of leetcode submissions on github
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akshatabakre/leethub/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -150,6 +152,7 @@ Record of leetcode submissions on github
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
@@ -177,6 +180,7 @@ Record of leetcode submissions on github
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatabakre/leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Geometry
 |  |
 | ------- |
