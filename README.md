@@ -105,6 +105,7 @@ Record of leetcode submissions on github
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
+| [0812-rotate-string](https://github.com/akshatabakre/leethub/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -213,6 +214,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/akshatabakre/leethub/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
