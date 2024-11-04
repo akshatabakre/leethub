@@ -114,6 +114,7 @@ Record of leetcode submissions on github
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatabakre/leethub/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/akshatabakre/leethub/tree/master/3451-string-compression-iii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/akshatabakre/leethub/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Simulation
 |  |
