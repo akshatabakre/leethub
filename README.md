@@ -65,6 +65,7 @@ Record of leetcode submissions on github
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/akshatabakre/leethub/tree/master/1848-sum-of-unique-elements) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -84,6 +85,7 @@ Record of leetcode submissions on github
 | [1054-complement-of-base-10-integer](https://github.com/akshatabakre/leethub/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akshatabakre/leethub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
@@ -212,6 +214,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
+| [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 ## Depth-First Search
 |  |
 | ------- |
