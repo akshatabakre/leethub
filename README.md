@@ -46,6 +46,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatabakre/leethub/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/akshatabakre/leethub/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
@@ -258,4 +259,8 @@ Record of leetcode submissions on github
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/akshatabakre/leethub/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
