@@ -5,12 +5,12 @@ public:
             ans.push_back(v);
             return;
         }
-        //do not pick the indth index
-        solve(nums,ind+1,v,ans);
         //pick the indth index
         v.push_back(nums[ind]);
         solve(nums,ind+1,v,ans);
         v.pop_back();
+        //do not pick the indth index
+        solve(nums,ind+1,v,ans);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
