@@ -57,6 +57,7 @@ Record of leetcode submissions on github
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akshatabakre/leethub/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/akshatabakre/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshatabakre/leethub/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
@@ -91,6 +92,7 @@ Record of leetcode submissions on github
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akshatabakre/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshatabakre/leethub/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akshatabakre/leethub/tree/master/0260-single-number-iii) |
@@ -287,6 +289,7 @@ Record of leetcode submissions on github
 | [0040-combination-sum-ii](https://github.com/akshatabakre/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akshatabakre/leethub/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akshatabakre/leethub/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/akshatabakre/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshatabakre/leethub/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/akshatabakre/leethub/tree/master/0800-letter-case-permutation) |
