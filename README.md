@@ -27,6 +27,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/akshatabakre/leethub/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
@@ -47,6 +48,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatabakre/leethub/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/akshatabakre/leethub/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/akshatabakre/leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshatabakre/leethub/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akshatabakre/leethub/tree/master/0039-combination-sum) |
