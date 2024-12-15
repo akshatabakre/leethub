@@ -56,6 +56,7 @@ Record of leetcode submissions on github
 | [0046-permutations](https://github.com/akshatabakre/leethub/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akshatabakre/leethub/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshatabakre/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshatabakre/leethub/tree/master/0090-subsets-ii) |
@@ -307,10 +308,12 @@ Record of leetcode submissions on github
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshatabakre/leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshatabakre/leethub/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatabakre/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/akshatabakre/leethub/tree/master/0213-house-robber-ii) |
