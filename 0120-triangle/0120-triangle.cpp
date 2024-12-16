@@ -13,19 +13,33 @@ public:
     // }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-        vector<vector<int>> dp(n,vector<int> (n,-1));
+        // vector<vector<int>> dp(n,vector<int> (n,-1));
         // return f(0,0,triangle,n,dp);
 
         //tabulation
         //base case implementation
-        for(int i=0;i<n;i++){
-            dp[n-1][i] = triangle[n-1][i];
-        }
-        for(int i=n-2;i>=0;i--){//row
+        // for(int i=0;i<n;i++){
+        //     dp[n-1][i] = triangle[n-1][i];
+        // }
+        // for(int i=n-2;i>=0;i--){//row
+        //     for(int j=0;j<=i;j++){
+        //         dp[i][j] = triangle[i][j] + min(dp[i+1][j],dp[i+1][j+1]);
+        //     }
+        // }
+        // return dp[0][0];
+
+        //space optimization
+        vector<int> v(n);
+        //base case implementation
+        for(int i=0;i<n;i++)
+            v[i] = triangle[n-1][i];
+        for(int i=n-2;i>=0;i--){
+            vector<int> temp(n);
             for(int j=0;j<=i;j++){
-                dp[i][j] = triangle[i][j] + min(dp[i+1][j],dp[i+1][j+1]);
+                temp[j] = triangle[i][j] + min(v[j],v[j+1]);
             }
+            v = temp;
         }
-        return dp[0][0];
+        return v[0];
     }
 };
