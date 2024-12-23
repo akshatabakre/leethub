@@ -14,27 +14,29 @@ public:
     // }
     int longestCommonSubsequence(string text1, string text2) {
         int n=text1.length(),m=text2.length();
-        vector<vector<int>> dp(n,vector<int>(m,0));
+        // vector<vector<int>> dp(n,vector<int>(m,0));
         // return lcs(n-1,m-1,text1,text2,dp);
+        vector<int> prev(m,0),curr(m,0);
         for(int i1=0;i1<n;i1++){
             for(int i2=0;i2<m;i2++){
                 if(text1[i1]==text2[i2]){
-                    dp[i1][i2] = 1;
+                    curr[i2] = 1;
                     if(i1>0 && i2>0){
-                        dp[i1][i2]+=dp[i1-1][i2-1];
+                        curr[i2]+=prev[i2-1];
                     }
                 }else{
                     int v1=0,v2=0;
                     if(i1>0){
-                        v1=dp[i1-1][i2];
+                        v1=prev[i2];
                     }
                     if(i2>0){
-                        v2=dp[i1][i2-1];
+                        v2=curr[i2-1];
                     }
-                    dp[i1][i2] = max(v1,v2);
+                    curr[i2] = max(v1,v2);
                 }
             }
+            prev = curr;
         }
-        return dp[n-1][m-1];
+        return prev[m-1];
     }
 };
