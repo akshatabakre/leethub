@@ -133,6 +133,7 @@ Record of leetcode submissions on github
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
+| [0516-longest-palindromic-subsequence](https://github.com/akshatabakre/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
@@ -329,6 +330,7 @@ Record of leetcode submissions on github
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/akshatabakre/leethub/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/akshatabakre/leethub/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/akshatabakre/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/akshatabakre/leethub/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
