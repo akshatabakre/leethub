@@ -143,6 +143,7 @@ Record of leetcode submissions on github
 | [0812-rotate-string](https://github.com/akshatabakre/leethub/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/akshatabakre/leethub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/akshatabakre/leethub/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshatabakre/leethub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -336,6 +337,7 @@ Record of leetcode submissions on github
 | [0494-target-sum](https://github.com/akshatabakre/leethub/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshatabakre/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/akshatabakre/leethub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/akshatabakre/leethub/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshatabakre/leethub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Combinatorics
