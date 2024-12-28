@@ -30,11 +30,12 @@ public:
         int n=s.length(),m=p.length();
         // vector<vector<int>> dp(n,vector<int>(m,-1));
         // return func(n-1,m-1,s,p,dp);
-        vector<vector<bool>> dp(n+1,vector<bool>(m+1));
-        dp[0][0] = true;
-        for(int i=1;i<=n;i++){
-            dp[i][0] = false;
-        }
+        // vector<vector<bool>> dp(n+1,vector<bool>(m+1));
+        vector<bool> v(m+1),curr(m+1);
+        v[0] = true;
+        // for(int i=1;i<=n;i++){
+        //     dp[i][0] = false;
+        // }
         for(int j=1;j<=m;j++){
             bool allstars = true;
             for(int k=0;k<j;k++){
@@ -43,19 +44,21 @@ public:
                     break;
                 }
             }
-            dp[0][j] = allstars;
+            v[j] = allstars;
         }
         for(int i=1;i<=n;i++){
+            curr[0] = false;
             for(int j=1;j<=m;j++){
                 if(s[i-1]==p[j-1] || p[j-1]=='?'){
-                    dp[i][j] = dp[i-1][j-1];
+                    curr[j] = v[j-1];
                 }else if(p[j-1]=='*'){
-                    dp[i][j] = dp[i-1][j]||dp[i][j-1];
+                    curr[j] = v[j]||curr[j-1];
                 }else{
-                    dp[i][j] = false;
+                    curr[j] = false;
                 }
             }
+            v=curr;
         }
-        return dp[n][m];
+        return v[m];
     }
 };
