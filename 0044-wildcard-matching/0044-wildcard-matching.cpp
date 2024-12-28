@@ -28,7 +28,34 @@ public:
     }
     bool isMatch(string s, string p) {
         int n=s.length(),m=p.length();
-        vector<vector<int>> dp(n,vector<int>(m,-1));
-        return func(n-1,m-1,s,p,dp);
+        // vector<vector<int>> dp(n,vector<int>(m,-1));
+        // return func(n-1,m-1,s,p,dp);
+        vector<vector<bool>> dp(n+1,vector<bool>(m+1));
+        dp[0][0] = true;
+        for(int i=1;i<=n;i++){
+            dp[i][0] = false;
+        }
+        for(int j=1;j<=m;j++){
+            bool allstars = true;
+            for(int k=0;k<j;k++){
+                if(p[k]!='*'){
+                    allstars = false;
+                    break;
+                }
+            }
+            dp[0][j] = allstars;
+        }
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(s[i-1]==p[j-1] || p[j-1]=='?'){
+                    dp[i][j] = dp[i-1][j-1];
+                }else if(p[j-1]=='*'){
+                    dp[i][j] = dp[i-1][j]||dp[i][j-1];
+                }else{
+                    dp[i][j] = false;
+                }
+            }
+        }
+        return dp[n][m];
     }
 };
