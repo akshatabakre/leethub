@@ -34,5 +34,16 @@ public:
             }
         }
         return dp[n][m];
+        // SPACE OPTIMIZATION
+        vector<int> v(m+1,0);
+        v[0] = 1;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                if(s[i-1]==t[j-1]){
+                    v[j]+=v[j-1];
+                }
+            }
+        }
+        return v[m];
     }
 };
