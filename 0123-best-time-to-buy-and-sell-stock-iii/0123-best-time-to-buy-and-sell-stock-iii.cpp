@@ -18,20 +18,23 @@ public:
     // }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<vector<int>>> dp(n+1,vector<vector<int>>(2,vector<int>(3,0)));
+        // vector<vector<vector<int>>> dp(n+1,vector<vector<int>>(2,vector<int>(3,0)));
         // return akshata(0,1,2,prices,dp);
         //base cases -> for cap==0, dp = 0 && for ind==n, dp=0
+        //space optimization -> to a 2D DP
+        vector<vector<int>> v(2,vector<int>(3,0)),c(2,vector<int>(3,0));
         for(int ind=n-1;ind>=0;ind--){
             for(int buy=1;buy>=0;buy--){
                 for(int cap=1;cap<3;cap++){
                     if(buy){
-                        dp[ind][buy][cap] = max(-prices[ind]+dp[ind+1][0][cap],dp[ind+1][1][cap]);
+                        c[buy][cap] = max(-prices[ind]+v[0][cap],v[1][cap]);
                     }else{
-                        dp[ind][buy][cap] = max(prices[ind]+dp[ind+1][1][cap-1],dp[ind+1][0][cap]);
+                        c[buy][cap] = max(prices[ind]+v[1][cap-1],v[0][cap]);
                     }
                 }
+                v=c;
             }
         }
-        return dp[0][1][2];
+        return v[1][2];
     }
 };
