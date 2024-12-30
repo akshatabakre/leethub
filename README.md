@@ -357,6 +357,7 @@ Record of leetcode submissions on github
 | [1170-shortest-common-supersequence](https://github.com/akshatabakre/leethub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/akshatabakre/leethub/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshatabakre/leethub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2562-count-ways-to-build-good-strings](https://github.com/akshatabakre/leethub/tree/master/2562-count-ways-to-build-good-strings) |
 ## Combinatorics
 |  |
 | ------- |
