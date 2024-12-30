@@ -19,13 +19,8 @@ public:
         vector<int> v(2,0),c(2,0);
         int a = 0;//dp[i+2][1]
         for(int i=n-1;i>=0;i--){
-            for(int b=0;b<=1;b++){
-                if(b==1){
-                    c[b] = max(-prices[i]+v[0],v[1]);
-                }else{
-                    c[b] = max(prices[i]+a,v[0]);
-                }
-            }
+            c[1] = max(-prices[i]+v[0],v[1]);
+            c[0] = max(prices[i]+a,v[0]);
             a = v[1];
             v=c;
         }
