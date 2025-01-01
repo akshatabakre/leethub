@@ -69,6 +69,7 @@ Record of leetcode submissions on github
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/akshatabakre/leethub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/akshatabakre/leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akshatabakre/leethub/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
@@ -355,6 +356,7 @@ Record of leetcode submissions on github
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/akshatabakre/leethub/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/akshatabakre/leethub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/akshatabakre/leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akshatabakre/leethub/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/akshatabakre/leethub/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
