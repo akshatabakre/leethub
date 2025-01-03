@@ -103,6 +103,7 @@ Record of leetcode submissions on github
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/akshatabakre/leethub/tree/master/2358-number-of-ways-to-split-array) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akshatabakre/leethub/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -286,6 +287,7 @@ Record of leetcode submissions on github
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akshatabakre/leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/akshatabakre/leethub/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akshatabakre/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Depth-First Search
 |  |
