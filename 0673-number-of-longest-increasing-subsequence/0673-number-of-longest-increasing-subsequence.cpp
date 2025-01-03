@@ -14,9 +14,6 @@ public:
             }
             maxi = max(dp[i],maxi);
         }
-        for(int i=0;i<n;i++){
-            cout<<count[i]<<" ";
-        }
         int ans = 0;
         for(int i=0;i<n;i++){
             if(dp[i]==maxi){
