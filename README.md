@@ -94,6 +94,7 @@ Record of leetcode submissions on github
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshatabakre/leethub/tree/master/1025-minimum-cost-for-tickets) |
+| [1121-partition-array-for-maximum-sum](https://github.com/akshatabakre/leethub/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatabakre/leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
@@ -394,6 +395,7 @@ Record of leetcode submissions on github
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akshatabakre/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshatabakre/leethub/tree/master/1025-minimum-cost-for-tickets) |
+| [1121-partition-array-for-maximum-sum](https://github.com/akshatabakre/leethub/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/akshatabakre/leethub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/akshatabakre/leethub/tree/master/1250-longest-common-subsequence) |
