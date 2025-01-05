@@ -1,37 +1,35 @@
 class Solution {
 public:
-    bool isPalindrome(string s){
+    bool isP(string s){
         if(s.length()==1){
             return true;
-        }else{
-            int n = s.length();
-            for(int i=0;i<n/2;i++){
-                if(s[i]!=s[n-i-1]){
-                    return false;
-                }
-            }
-            return true;
         }
+        int n = s.length();
+        for(int i=0;i<n/2;i++){
+            if(s[i]!=s[n-i-1]){
+                return false;
+            }
+        }
+        return true;
     }
-    void solve(string s,int ind,vector<string>&v,vector<vector<string>>&ans){
+    void solve(int ind,string& s,vector<string>& v,vector<vector<string>>& ans){
         if(ind==s.length()){
             ans.push_back(v);
             return;
         }
         for(int i=ind;i<s.length();i++){
             string word = s.substr(ind,i-ind+1);
-            if(isPalindrome(word)){
-                // cout<<word<<endl;
+            if(isP(word)){
                 v.push_back(word);
-                solve(s,i+1,v,ans);
+                solve(i+1,s,v,ans);
                 v.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> ans;
         vector<string> v;
-        solve(s,0,v,ans);
+        vector<vector<string>> ans;
+        solve(0,s,v,ans);
         return ans;
     }
 };
