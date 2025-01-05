@@ -152,6 +152,7 @@ Record of leetcode submissions on github
 | [0072-edit-distance](https://github.com/akshatabakre/leethub/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/akshatabakre/leethub/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/akshatabakre/leethub/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/akshatabakre/leethub/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
@@ -378,6 +379,7 @@ Record of leetcode submissions on github
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatabakre/leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/akshatabakre/leethub/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/akshatabakre/leethub/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/akshatabakre/leethub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/akshatabakre/leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akshatabakre/leethub/tree/master/0213-house-robber-ii) |
