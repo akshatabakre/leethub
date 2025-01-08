@@ -85,6 +85,7 @@ Record of leetcode submissions on github
 | [0416-partition-equal-subset-sum](https://github.com/akshatabakre/leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/akshatabakre/leethub/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
@@ -242,6 +243,7 @@ Record of leetcode submissions on github
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
@@ -346,6 +348,7 @@ Record of leetcode submissions on github
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
@@ -423,4 +426,8 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
