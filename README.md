@@ -150,6 +150,7 @@ Record of leetcode submissions on github
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshatabakre/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/akshatabakre/leethub/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akshatabakre/leethub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshatabakre/leethub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -230,6 +231,7 @@ Record of leetcode submissions on github
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshatabakre/leethub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akshatabakre/leethub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2509-minimize-xor](https://github.com/akshatabakre/leethub/tree/master/2509-minimize-xor) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatabakre/leethub/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
