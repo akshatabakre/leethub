@@ -130,6 +130,7 @@ Record of leetcode submissions on github
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Record of leetcode submissions on github
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Greedy
 |  |
 | ------- |
@@ -415,6 +417,7 @@ Record of leetcode submissions on github
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Dynamic Programming
 |  |
 | ------- |
