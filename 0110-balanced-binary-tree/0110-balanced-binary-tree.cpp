@@ -20,7 +20,6 @@ public:
         return 1+max(l,r);
     }
     bool isBalanced(TreeNode* root) {
-        if(check(root)==-1) return false;
-        return true;
+        return (check(root)!=-1);
     }
 };
