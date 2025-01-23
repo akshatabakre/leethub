@@ -104,6 +104,7 @@ Record of leetcode submissions on github
 | [1121-partition-array-for-maximum-sum](https://github.com/akshatabakre/leethub/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatabakre/leethub/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akshatabakre/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/akshatabakre/leethub/tree/master/1524-string-matching-in-an-array) |
@@ -306,6 +307,7 @@ Record of leetcode submissions on github
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshatabakre/leethub/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -366,6 +368,7 @@ Record of leetcode submissions on github
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/akshatabakre/leethub/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 ## String Matching
 |  |
 | ------- |
@@ -385,6 +388,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -437,6 +441,7 @@ Record of leetcode submissions on github
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
+| [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
@@ -549,4 +554,5 @@ Record of leetcode submissions on github
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshatabakre/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
