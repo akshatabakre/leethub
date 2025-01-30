@@ -64,6 +64,7 @@ Record of leetcode submissions on github
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akshatabakre/leethub/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/akshatabakre/leethub/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/akshatabakre/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
@@ -229,6 +230,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshatabakre/leethub/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/akshatabakre/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -450,6 +452,7 @@ Record of leetcode submissions on github
 | [0036-valid-sudoku](https://github.com/akshatabakre/leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshatabakre/leethub/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/akshatabakre/leethub/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/akshatabakre/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
