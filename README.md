@@ -141,6 +141,7 @@ Record of leetcode submissions on github
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshatabakre/leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3429-special-array-i](https://github.com/akshatabakre/leethub/tree/master/3429-special-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
