@@ -146,6 +146,7 @@ Record of leetcode submissions on github
 | [3429-special-array-i](https://github.com/akshatabakre/leethub/tree/master/3429-special-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/akshatabakre/leethub/tree/master/3639-zero-array-transformation-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Bit Manipulation
 |  |
@@ -369,6 +370,7 @@ Record of leetcode submissions on github
 | [2358-number-of-ways-to-split-array](https://github.com/akshatabakre/leethub/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/akshatabakre/leethub/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akshatabakre/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3639-zero-array-transformation-i](https://github.com/akshatabakre/leethub/tree/master/3639-zero-array-transformation-i) |
 ## Depth-First Search
 |  |
 | ------- |
