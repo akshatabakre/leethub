@@ -76,6 +76,7 @@ Record of leetcode submissions on github
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatabakre/leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/akshatabakre/leethub/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/akshatabakre/leethub/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/akshatabakre/leethub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/akshatabakre/leethub/tree/master/0198-house-robber) |
@@ -154,6 +155,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0078-subsets](https://github.com/akshatabakre/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshatabakre/leethub/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/akshatabakre/leethub/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akshatabakre/leethub/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
