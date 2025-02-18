@@ -1,20 +1,12 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int maxi = 0;
+        sort(nums.begin(),nums.end());
         for(int i=0;i<nums.size();i++){
-            maxi = max(maxi,nums[i]);
-        }
-        if(maxi==nums.size()-1){
-            return maxi+1;
-        }else{
-            sort(nums.begin(),nums.end());
-            for(int i=0;i<nums.size();i++){
-                if(nums[i]!=i){
-                    return i;
-                }
+            if(i!=nums[i]){
+                return i;
             }
         }
-        return 0;
+        return nums.size();
     }
 };
