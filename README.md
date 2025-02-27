@@ -115,6 +115,7 @@ Record of leetcode submissions on github
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatabakre/leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akshatabakre/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akshatabakre/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/akshatabakre/leethub/tree/master/1524-string-matching-in-an-array) |
@@ -423,6 +424,7 @@ Record of leetcode submissions on github
 | [0222-count-complete-tree-nodes](https://github.com/akshatabakre/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0300-longest-increasing-subsequence) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akshatabakre/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akshatabakre/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Union Find
 |  |
