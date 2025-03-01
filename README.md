@@ -287,6 +287,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -403,6 +404,7 @@ Record of leetcode submissions on github
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0145-binary-tree-postorder-traversal) |
@@ -454,6 +456,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
@@ -579,6 +582,7 @@ Record of leetcode submissions on github
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0145-binary-tree-postorder-traversal) |
@@ -598,6 +602,7 @@ Record of leetcode submissions on github
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0145-binary-tree-postorder-traversal) |
