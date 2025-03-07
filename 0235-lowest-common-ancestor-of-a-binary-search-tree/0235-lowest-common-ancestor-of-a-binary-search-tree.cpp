@@ -17,13 +17,10 @@ public:
         if(n->val>=p && n->val<=q || n->val<=p && n->val>=q){
             return n;
         }
-        if(preorder(n->left,p,q)){
-            return preorder(n->left,p,q);
-        }
-        if(preorder(n->right,p,q)){
+        if(n->val<p && n->val<q){
             return preorder(n->right,p,q);
         }
-        return NULL;
+        return preorder(n->left,p,q);
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         return preorder(root,p->val,q->val);
