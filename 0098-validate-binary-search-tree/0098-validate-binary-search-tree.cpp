@@ -11,29 +11,13 @@
  */
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-        if(!root || (!root->left && !root->right)){
+    bool preorder(TreeNode* n, long long l, long long r){
+        if(!n){
             return true;
         }
-        bool flag = true;
-        if(root->left){
-            TreeNode* curr = root->left;
-            while(curr->right){
-                curr = curr->right;
-            }
-            if(curr->val>=root->val){
-                flag = false;
-            }
-        }
-        if(root->right){
-            TreeNode* curr = root->right;
-            while(curr->left){
-                curr = curr->left;
-            }
-            if(curr->val<=root->val){
-                flag = false;
-            }
-        }
-        return flag && isValidBST(root->left) && isValidBST(root->right);
+        return (n->val>l && n->val<r) && preorder(n->left,l,n->val) && preorder(n->right,n->val,r);
+    }
+    bool isValidBST(TreeNode* root) {
+        return preorder(root,-1e10,1e10);
     }
 };
