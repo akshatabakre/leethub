@@ -25,6 +25,7 @@ Record of leetcode submissions on github
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/akshatabakre/leethub/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/akshatabakre/leethub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2610-closest-prime-numbers-in-range](https://github.com/akshatabakre/leethub/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/akshatabakre/leethub/tree/master/2649-count-total-number-of-colored-cells) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -360,6 +361,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
+| [2610-closest-prime-numbers-in-range](https://github.com/akshatabakre/leethub/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sorting
 |  |
 | ------- |
