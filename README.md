@@ -294,12 +294,14 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/akshatabakre/leethub/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/akshatabakre/leethub/tree/master/0060-permutation-sequence) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
