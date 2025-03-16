@@ -11,17 +11,21 @@
  */
 class Solution {
 public:
+    int solve(TreeNode* root){
+        if(root->left==NULL && root->right==NULL){
+            return 0;
+        }
+        int l = 1e9, r = 1e9;
+        if(root->left!=NULL){
+            l = 1 + solve(root->left);
+        }
+        if(root->right!=NULL){
+            r = 1 + solve(root->right);
+        }
+        return min(l,r);
+    }
     int minDepth(TreeNode* root) {
         if(!root)   return 0;
-        int r = minDepth(root->right), l = minDepth(root->left);
-        int h = 1;
-        if(r && l){
-            h+=min(l,r);
-        }else if(r){
-            h+=r;
-        }else if(l){
-            h+=l;
-        }
-        return h;
+        return 1+solve(root);
     }
 };
