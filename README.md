@@ -118,6 +118,7 @@ Record of leetcode submissions on github
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshatabakre/leethub/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/akshatabakre/leethub/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatabakre/leethub/tree/master/1256-rank-transform-of-an-array) |
@@ -534,6 +535,7 @@ Record of leetcode submissions on github
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -681,6 +683,7 @@ Record of leetcode submissions on github
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 ## Design
 |  |
