@@ -107,6 +107,7 @@ Record of leetcode submissions on github
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0665-non-decreasing-array](https://github.com/akshatabakre/leethub/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -534,6 +535,7 @@ Record of leetcode submissions on github
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
@@ -569,6 +571,7 @@ Record of leetcode submissions on github
 | [0416-partition-equal-subset-sum](https://github.com/akshatabakre/leethub/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akshatabakre/leethub/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshatabakre/leethub/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akshatabakre/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
@@ -679,6 +682,7 @@ Record of leetcode submissions on github
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/akshatabakre/leethub/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/akshatabakre/leethub/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
