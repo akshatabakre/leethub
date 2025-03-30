@@ -41,6 +41,7 @@ Record of leetcode submissions on github
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akshatabakre/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -229,6 +230,7 @@ Record of leetcode submissions on github
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/akshatabakre/leethub/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/akshatabakre/leethub/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -286,6 +288,7 @@ Record of leetcode submissions on github
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatabakre/leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akshatabakre/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -336,6 +339,7 @@ Record of leetcode submissions on github
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
+| [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
