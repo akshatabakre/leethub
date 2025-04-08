@@ -174,6 +174,7 @@ Record of leetcode submissions on github
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/akshatabakre/leethub/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/akshatabakre/leethub/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Bit Manipulation
 |  |
@@ -368,6 +369,7 @@ Record of leetcode submissions on github
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshatabakre/leethub/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/akshatabakre/leethub/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
 | ------- |
