@@ -1,33 +1,37 @@
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
-        map<string,int> f;
-        for(string word:words){
-            f[word]++;
+        unordered_map<string,int> m;
+        for(auto i:words){
+            m[i]++;
         }
-        int ans = 0;
-        bool midexists = false;
-        string rev = "";
-        for(auto i:f){
-            string word = i.first;  int freq = i.second;
-            //"aa"
-            if(word[0]==word[1]){
-                if(freq%2){
-                    midexists = true;
-                    ans+=(2*(freq-1));
-                }else{
-                    ans+=(2*freq);
+        int best=0;
+        int counter=0;
+        int best2=0;
+        unordered_map<string,bool> mp;
+        for(auto i:m){
+            string s=i.first;
+            string a=s;
+            reverse(a.begin(),a.end());
+            if(s==a){
+                if(i.second%2==0){
+                    best2+=i.second;
                 }
-            }else{//"ab"
-                rev+=word[1];   rev+=word[0];
-                ans+=(4*min(freq,f[rev]));
-                f[rev] = 0; f[word] = 0;
-                rev = "";
+                else{
+                    best2+=(i.second-1);
+                    best++;
+                }
+            }
+            else if(mp.find(a)==mp.end() && m.count(a)){
+                counter+=min(i.second,m[a]);
+                mp[s]=true;
+                mp[a]=true;
             }
         }
-        if(midexists){
-            ans+=2;
-        }
-        return ans;
+        cout<<counter<<" "<<best2<<" "<<best;
+        
+        return (4*counter+(2*min(best,1)+2*best2));
+
+        
     }
 };
