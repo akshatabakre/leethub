@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int countways(int ind,int target,vector<int>& nums,vector<vector<int>>& dp){
-        if(ind==0){
-            if(nums[ind]==0 && target==0)    return 2;//either take 0 or not take 0
-            if(target==0 || target==nums[ind])  return 1;//either nottake, or take
-            return 0;//no other way possible
-        }
-        if(dp[ind][target]!=-1) return dp[ind][target];
-        int nottake = countways(ind-1,target,nums,dp);
-        int take = 0;
-        if(nums[ind]<=target){
-            take = countways(ind-1,target-nums[ind],nums,dp);
-        }
-        return dp[ind][target] = take+nottake;
-    }
+    // int countways(int ind,int target,vector<int>& nums,vector<vector<int>>& dp){
+    //     if(ind==0){
+    //         if(nums[ind]==0 && target==0)    return 2;//either take 0 or not take 0
+    //         if(target==0 || target==nums[ind])  return 1;//either nottake, or take
+    //         return 0;//no other way possible
+    //     }
+    //     if(dp[ind][target]!=-1) return dp[ind][target];
+    //     int nottake = countways(ind-1,target,nums,dp);
+    //     int take = 0;
+    //     if(nums[ind]<=target){
+    //         take = countways(ind-1,target-nums[ind],nums,dp);
+    //     }
+    //     return dp[ind][target] = take+nottake;
+    // }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size(), sum = 0;
         for(int i=0;i<n;i++){
