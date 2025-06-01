@@ -15,7 +15,7 @@ public:
             q.pop();
             int stops = it.first, node = it.second.first, cost = it.second.second;
             if(stops>k){
-                continue;//means the destination might already have been updated till now
+                break;//means the destination might already have been updated till now
             }
             for(auto i:paths[node]){
                 int adjnode = i.first, c = i.second;
