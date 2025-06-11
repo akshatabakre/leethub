@@ -11,33 +11,23 @@
  */
 class Solution {
 public:
-    // void inord(TreeNode* n,vector<int>& ans){
-    //     if(n==NULL)     return;
-    //     inord(n->left,ans);
-    //     ans.push_back(n->val);
-    //     inord(n->right,ans);
-    // }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        // inord(root,ans);
-        // return ans;
-        if(!root){
-            return ans;
-        }
-        stack<TreeNode*> s;
-        TreeNode* n = root;
+        vector<int> inor;
+        if(!root)   return inor;
+        stack<TreeNode*> st;
+        TreeNode* curr = root;
         while(true){
-            if(n!=NULL){
-                s.push(n);
-                n = n->left;
-            }else{//null node encountered
-                if(s.empty())   break;
-                n = s.top();//re-initializing n to top of stack, as cant traverse the tree more (as the NULL node is encountered), basically backtracking
-                s.pop();
-                ans.push_back(n->val);
-                n = n->right;
+            if(curr){
+                st.push(curr);
+                curr = curr->left;
+            }else{
+                if(st.empty())  break;
+                curr = st.top();
+                st.pop();
+                inor.push_back(curr->val);
+                curr = curr->right;
             }
         }
-        return ans;
+        return inor;
     }
 };
