@@ -1,23 +1,25 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
-        vector<int> v;
-        v.push_back(nums[0]);
-        int len = 1;
-        for(int i=1;i<nums.size();i++){
-            if(nums[i]>v.back()){
-                v.push_back(nums[i]);
-                len++;
-                // cout<<"pushing "<<nums[i]<<endl;
-            }else{
-                int ind = lower_bound(v.begin(),v.end(),nums[i]) - v.begin();
-                v[ind] = nums[i];
-            }
+    int f(int ind,int prevind,vector<int>& nums,vector<vector<int>>& dp){
+        if(ind==nums.size()){
+            return 0;
         }
-        // for(int i=0;i<v.size();i++){
-        //     cout<<v[i]<<" ";
-        // }
-        // cout<<endl;
-        return len;
+        if(prevind!=-1 && dp[ind][prevind]!=-1)    return dp[ind][prevind];
+        int nottake = 0 + f(ind+1,prevind,nums,dp);
+        int take = 0;
+        if(prevind==-1){
+            take = 1 + f(ind+1,ind,nums,dp);
+        } else if(nums[ind]>nums[prevind]){
+            take = 1 + f(ind+1,ind,nums,dp);
+        }
+        if(prevind==-1){
+            return max(take,nottake);
+        }
+        return dp[ind][prevind] = max(take,nottake);
+    }
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+        return f(0,-1,nums,dp);
     }
 };
