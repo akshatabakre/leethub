@@ -11,27 +11,20 @@
  */
 class Solution {
 public:
+    void pre(TreeNode* root, int& k,int& ans){
+        if(!root || k<=0)   return;
+        pre(root->left,k,ans);
+        k--;
+        if(k==0){
+            ans = root->val;
+            return;
+        }
+        pre(root->right,k,ans);
+    }
     int kthSmallest(TreeNode* root, int k) {
-        if(!root->left && !root->right){
-            return root->val;
-        }
-        stack<TreeNode*> s;
-        // s.push(root);
-        TreeNode* curr = root;
-        int count = 0;
-        while(curr || !s.empty()){
-            while(curr){
-                s.push(curr);
-                curr = curr->left;
-            }
-            curr = s.top();
-            count++;
-            if(count==k){
-                return curr->val;
-            }
-            s.pop();
-            curr = curr->right;
-        }
-        return 0;
+        //preorder, ans
+        int ans = 0;
+        pre(root,k,ans);
+        return ans;
     }
 };
