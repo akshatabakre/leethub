@@ -9,15 +9,14 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ #define ll long long
 class Solution {
 public:
-    bool preorder(TreeNode* n, long long l, long long r){
-        if(!n){
-            return true;
-        }
-        return (n->val>l && n->val<r) && preorder(n->left,l,n->val) && preorder(n->right,n->val,r);
+    bool valid(TreeNode* root,ll lb,ll ub){
+        if(!root)   return true;
+        return (root->val>lb && root->val<ub && valid(root->left,lb,root->val) && valid(root->right,root->val,ub));
     }
     bool isValidBST(TreeNode* root) {
-        return preorder(root,-1e10,1e10);
+        return valid(root,LLONG_MIN,LLONG_MAX);
     }
 };
