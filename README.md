@@ -125,6 +125,7 @@ Record of leetcode submissions on github
 | [0907-koko-eating-bananas](https://github.com/akshatabakre/leethub/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshatabakre/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
@@ -365,6 +366,7 @@ Record of leetcode submissions on github
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akshatabakre/leethub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
@@ -450,6 +452,7 @@ Record of leetcode submissions on github
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akshatabakre/leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -550,6 +553,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatabakre/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [2478-longest-nice-subarray](https://github.com/akshatabakre/leethub/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/akshatabakre/leethub/tree/master/3483-alternating-groups-ii) |
