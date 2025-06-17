@@ -40,6 +40,7 @@ Record of leetcode submissions on github
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/akshatabakre/leethub/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -333,6 +334,7 @@ Record of leetcode submissions on github
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -353,6 +355,7 @@ Record of leetcode submissions on github
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/akshatabakre/leethub/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/akshatabakre/leethub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
