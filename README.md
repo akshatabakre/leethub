@@ -9,6 +9,7 @@ Record of leetcode submissions on github
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/akshatabakre/leethub/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/akshatabakre/leethub/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/akshatabakre/leethub/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
@@ -94,6 +95,7 @@ Record of leetcode submissions on github
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/akshatabakre/leethub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/akshatabakre/leethub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/akshatabakre/leethub/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
@@ -427,6 +429,7 @@ Record of leetcode submissions on github
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 | [2610-closest-prime-numbers-in-range](https://github.com/akshatabakre/leethub/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sorting
@@ -605,6 +608,7 @@ Record of leetcode submissions on github
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshatabakre/leethub/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akshatabakre/leethub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
