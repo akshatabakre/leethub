@@ -1,16 +1,17 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int,int> c;
-        for(int i=0;i<nums.size();i++){
-            c[nums[i]]++;
-        }
-        vector<int> res;
-        for(auto i:c){
-            if(i.second==1){
-                res.push_back(i.first);
+        long xorVal = 0;
+        for(int i:nums)     xorVal = (xorVal ^ i);
+        long num = ((xorVal & (xorVal-1)) ^ xorVal);
+        long num1 = 0, num2 = 0;
+        for(int i:nums){
+            if((i & num)){
+                num1 = (num1 ^ i);
+            }else{
+                num2 = (num2 ^ i);
             }
         }
-        return res;
+        return {(int)num1,(int)num2};
     }
 };
