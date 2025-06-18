@@ -143,6 +143,7 @@ Record of leetcode submissions on github
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akshatabakre/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akshatabakre/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/akshatabakre/leethub/tree/master/1524-string-matching-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/akshatabakre/leethub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -557,6 +558,7 @@ Record of leetcode submissions on github
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
 ## Bucket Sort
@@ -628,6 +630,7 @@ Record of leetcode submissions on github
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
@@ -799,6 +802,7 @@ Record of leetcode submissions on github
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/akshatabakre/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/akshatabakre/leethub/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
@@ -836,6 +840,7 @@ Record of leetcode submissions on github
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akshatabakre/leethub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/akshatabakre/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akshatabakre/leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/akshatabakre/leethub/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -849,5 +854,6 @@ Record of leetcode submissions on github
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akshatabakre/leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
