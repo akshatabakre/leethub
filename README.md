@@ -7,6 +7,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/akshatabakre/leethub/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/akshatabakre/leethub/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/akshatabakre/leethub/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/akshatabakre/leethub/tree/master/0062-unique-paths) |
@@ -77,6 +78,7 @@ Record of leetcode submissions on github
 | [0039-combination-sum](https://github.com/akshatabakre/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatabakre/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akshatabakre/leethub/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/akshatabakre/leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akshatabakre/leethub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akshatabakre/leethub/tree/master/0053-maximum-subarray) |
@@ -629,6 +631,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshatabakre/leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshatabakre/leethub/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/akshatabakre/leethub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akshatabakre/leethub/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akshatabakre/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
