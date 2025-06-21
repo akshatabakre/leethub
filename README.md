@@ -145,6 +145,7 @@ Record of leetcode submissions on github
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/akshatabakre/leethub/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/akshatabakre/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatabakre/leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
@@ -649,6 +650,7 @@ Record of leetcode submissions on github
 | [0854-making-a-large-island](https://github.com/akshatabakre/leethub/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/akshatabakre/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
@@ -826,6 +828,7 @@ Record of leetcode submissions on github
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/akshatabakre/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/akshatabakre/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
