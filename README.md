@@ -524,6 +524,7 @@ Record of leetcode submissions on github
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/akshatabakre/leethub/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/akshatabakre/leethub/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/akshatabakre/leethub/tree/master/0854-making-a-large-island) |
@@ -573,6 +574,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -817,6 +819,7 @@ Record of leetcode submissions on github
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/akshatabakre/leethub/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/akshatabakre/leethub/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/akshatabakre/leethub/tree/master/0854-making-a-large-island) |
@@ -859,6 +862,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/akshatabakre/leethub/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/akshatabakre/leethub/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akshatabakre/leethub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -876,6 +880,7 @@ Record of leetcode submissions on github
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akshatabakre/leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
