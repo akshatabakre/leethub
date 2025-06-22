@@ -88,6 +88,7 @@ Record of leetcode submissions on github
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshatabakre/leethub/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/akshatabakre/leethub/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/akshatabakre/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/akshatabakre/leethub/tree/master/0120-triangle) |
@@ -614,6 +615,7 @@ Record of leetcode submissions on github
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0144-binary-tree-preorder-traversal) |
@@ -659,6 +661,7 @@ Record of leetcode submissions on github
 | [0059-spiral-matrix-ii](https://github.com/akshatabakre/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akshatabakre/leethub/tree/master/0733-flood-fill) |
@@ -683,6 +686,7 @@ Record of leetcode submissions on github
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/akshatabakre/leethub/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/akshatabakre/leethub/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/akshatabakre/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/akshatabakre/leethub/tree/master/0120-triangle) |
@@ -736,6 +740,7 @@ Record of leetcode submissions on github
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
 ## Rolling Hash
