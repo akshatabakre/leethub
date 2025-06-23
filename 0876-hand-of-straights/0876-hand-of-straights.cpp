@@ -1,17 +1,25 @@
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
-        map<int,int> f;
-        for(int i:hand)     f[i]++;
-        while(!f.empty()){
-            int x = f.begin()->first;
-            for(int i=x;i<x+groupSize;i++){
-                if(f.count(i)){
-                    f[i]--;
-                    if(f[i]==0)
-                        f.erase(i);
-                }else{
-                    return false;
+        unordered_map<int,int> hm;
+        for(int i:hand){
+            hm[i]++;
+        }
+        priority_queue<int,vector<int>,greater<int>> minheap;
+        for(int i:hand){
+            minheap.push(i);
+        }
+        while(!minheap.empty()){
+            while(!minheap.empty() && hm[minheap.top()]==0){
+                minheap.pop();
+            }
+            if(!minheap.empty()){
+                int x = minheap.top();
+                for(int i=x;i<x+groupSize;i++){
+                    if(hm[i]==0){
+                        return false;
+                    }
+                    hm[i]--;
                 }
             }
         }
