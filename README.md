@@ -597,6 +597,7 @@ Record of leetcode submissions on github
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/akshatabakre/leethub/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -800,6 +801,7 @@ Record of leetcode submissions on github
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/akshatabakre/leethub/tree/master/2384-root-equals-sum-of-children) |
@@ -830,6 +832,7 @@ Record of leetcode submissions on github
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/akshatabakre/leethub/tree/master/2384-root-equals-sum-of-children) |
@@ -871,6 +874,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/akshatabakre/leethub/tree/master/0173-binary-search-tree-iterator) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -890,6 +894,7 @@ Record of leetcode submissions on github
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/akshatabakre/leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -927,4 +932,8 @@ Record of leetcode submissions on github
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
