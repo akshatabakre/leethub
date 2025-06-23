@@ -135,6 +135,7 @@ Record of leetcode submissions on github
 | [0794-swim-in-rising-water](https://github.com/akshatabakre/leethub/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/akshatabakre/leethub/tree/master/0854-making-a-large-island) |
+| [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/akshatabakre/leethub/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
@@ -332,6 +333,7 @@ Record of leetcode submissions on github
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akshatabakre/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
+| [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshatabakre/leethub/tree/master/1502-construct-k-palindrome-strings) |
@@ -394,6 +396,7 @@ Record of leetcode submissions on github
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
+| [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
@@ -470,6 +473,7 @@ Record of leetcode submissions on github
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
