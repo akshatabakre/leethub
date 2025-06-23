@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
-        multiset<int> ms(hand.begin(),hand.end());
+        set<int> ms(hand.begin(),hand.end());
         map<int,int> f;
         for(int i:hand)     f[i]++;
         while(!ms.empty()){
