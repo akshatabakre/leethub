@@ -357,6 +357,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatabakre/leethub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshatabakre/leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
@@ -592,6 +593,7 @@ Record of leetcode submissions on github
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
@@ -761,6 +763,7 @@ Record of leetcode submissions on github
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/akshatabakre/leethub/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
@@ -922,5 +925,6 @@ Record of leetcode submissions on github
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
