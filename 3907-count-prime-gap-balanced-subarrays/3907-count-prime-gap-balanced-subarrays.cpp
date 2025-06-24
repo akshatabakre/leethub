@@ -15,7 +15,7 @@ public:
     bool check(multiset<int>& m, vector<int>& nums, int r, int k,vector<int>& p) {
         return ((m.size() < 1) || (m.size() >= 1 && ((p[nums[r + 1]] == 0) ||
                 (p[nums[r + 1]] == 1 && *m.rbegin() - nums[r + 1] <= k &&
-                 nums[r + 1] - *m.begin() <= k && nums[r + 1] - *m.rbegin() <= k))));
+                 nums[r + 1] - *m.begin() <= k))));
     }
 
     int primeSubarray(vector<int>& nums, int k) {
