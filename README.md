@@ -36,6 +36,7 @@ Record of leetcode submissions on github
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Record of leetcode submissions on github
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -468,6 +470,7 @@ Record of leetcode submissions on github
 | [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 | [2610-closest-prime-numbers-in-range](https://github.com/akshatabakre/leethub/tree/master/2610-closest-prime-numbers-in-range) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -632,6 +635,7 @@ Record of leetcode submissions on github
 | [2478-longest-nice-subarray](https://github.com/akshatabakre/leethub/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/akshatabakre/leethub/tree/master/3483-alternating-groups-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/akshatabakre/leethub/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -899,6 +903,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/akshatabakre/leethub/tree/master/2195-time-needed-to-buy-tickets) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -951,4 +956,8 @@ Record of leetcode submissions on github
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 <!---LeetCode Topics End-->
