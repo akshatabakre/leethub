@@ -12,27 +12,33 @@
  #define ll long long
 class Solution {
 public:
+    bool isLeaf(TreeNode* root){    return (!root->left && !root->right);}
     int widthOfBinaryTree(TreeNode* root) {
-        ll maxw = 0;
-        if(!root)   return maxw;
-
-        queue<pair<TreeNode*,ll>> q;
-        q.push({root,0});
+        if(!root)   return 0;
+        queue<pair<TreeNode*,ll>> q;//node,index
+        q.push({root,0LL});
+        ll maxWidth = 0;
         while(!q.empty()){
-            ll s = q.size();
-            ll startind = q.front().second;//have to substract this from every 
-            ll left = 0, right = 0;
-            for(ll i=0;i<s;i++){
-                auto node = q.front().first;
-                ll currind = q.front().second - startind;
+            int levsize = q.size();
+            ll leftIndex = 1e9, rightIndex = -1e9;
+            ll minind = q.front().second;//WHY MININD - draw skewed right tree and give indices for worst case
+            for(int i=0;i<levsize;i++){
+                TreeNode* node = q.front().first;
+                ll currInd = q.front().second-minind;
                 q.pop();
-                if(i==0)    left = currind;
-                if(i==s-1)  right = currind;
-                if(node->left)  q.push({node->left,2*currind + 1});
-                if(node->right)  q.push({node->right,2*currind + 2});
+                leftIndex = min(currInd,leftIndex);
+                rightIndex = max(currInd,rightIndex);
+                if(node->left){
+                    ll leftInd = 2*currInd;
+                    q.push({node->left,leftInd});
+                }
+                if(node->right){
+                    ll rightInd = 2*currInd + 1;
+                    q.push({node->right,rightInd});
+                }
             }
-            maxw = max(right-left + 1, maxw);
+            maxWidth = max(rightIndex - leftIndex + 1,maxWidth);
         }
-        return maxw;
+        return (int)maxWidth;
     }
 };
