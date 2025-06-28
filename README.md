@@ -270,6 +270,7 @@ Record of leetcode submissions on github
 | [0132-palindrome-partitioning-ii](https://github.com/akshatabakre/leethub/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/akshatabakre/leethub/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/akshatabakre/leethub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
@@ -560,6 +561,7 @@ Record of leetcode submissions on github
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akshatabakre/leethub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/akshatabakre/leethub/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/akshatabakre/leethub/tree/master/0547-number-of-provinces) |
@@ -836,6 +838,7 @@ Record of leetcode submissions on github
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akshatabakre/leethub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/akshatabakre/leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -868,6 +871,7 @@ Record of leetcode submissions on github
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akshatabakre/leethub/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/akshatabakre/leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -889,6 +893,7 @@ Record of leetcode submissions on github
 | [0199-binary-tree-right-side-view](https://github.com/akshatabakre/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/akshatabakre/leethub/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/akshatabakre/leethub/tree/master/0547-number-of-provinces) |
@@ -915,6 +920,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/akshatabakre/leethub/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
