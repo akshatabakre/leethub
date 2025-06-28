@@ -129,6 +129,7 @@ Record of leetcode submissions on github
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0665-non-decreasing-array](https://github.com/akshatabakre/leethub/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -339,6 +340,7 @@ Record of leetcode submissions on github
 | [0044-wildcard-matching](https://github.com/akshatabakre/leethub/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatabakre/leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/akshatabakre/leethub/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshatabakre/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akshatabakre/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
@@ -403,6 +405,7 @@ Record of leetcode submissions on github
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
@@ -451,6 +454,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akshatabakre/leethub/tree/master/1034-subarrays-with-k-different-integers) |
@@ -487,6 +491,7 @@ Record of leetcode submissions on github
 | [0368-largest-divisible-subset](https://github.com/akshatabakre/leethub/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/akshatabakre/leethub/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
@@ -613,6 +618,7 @@ Record of leetcode submissions on github
 | [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
