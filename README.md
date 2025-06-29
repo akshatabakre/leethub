@@ -846,6 +846,7 @@ Record of leetcode submissions on github
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -879,6 +880,7 @@ Record of leetcode submissions on github
 | [0543-diameter-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -946,6 +948,7 @@ Record of leetcode submissions on github
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/akshatabakre/leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
