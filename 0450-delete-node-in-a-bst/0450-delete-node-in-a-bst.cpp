@@ -13,49 +13,64 @@ class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root)   return NULL;
-        //if root is key
-        if(root->val==key){
-            TreeNode* n = root->right;
-            if(n){
-                while(n->left){
-                    n = n->left;
+        if(root->val==key){//root needs to be deleted
+            if(root->right){
+                TreeNode* conn = root->right;
+                while(conn->left){
+                    conn = conn->left;
                 }
-                n->left = root->left;
+                conn->left = root->left;
                 return root->right;
             }else{
-                n = root->left;
-                return n;
+                return root->left;
             }
-            return NULL;
         }
         TreeNode* curr = root;
-        TreeNode* prev = root;
         while(curr){
-            if(curr->val==key){
-                //delete this node
-                TreeNode* n = curr->right;
-                if(n){
-                    if(prev->right==curr)
-                        prev->right = curr->right;
-                    else
-                        prev->left = curr->right;
-                    while(n->left){
-                        n = n->left;
+            if(curr->val > key){//go to left
+                if(curr->left){
+                    if(curr->left->val==key){//L to be deleted
+                        TreeNode* target = curr->left;
+                        if(target->right){
+                            TreeNode* conn = target->right;
+                            while(conn->left){
+                                conn = conn->left;
+                            }
+                            conn->left = target->left;
+                            curr->left = target->right;
+                            return root;
+                        }else{
+                            curr->left = target->left;
+                            return root;
+                        }
+                    }else{
+                        curr = curr->left;
                     }
-                    n->left = curr->left;
                 }else{
-                    if(prev->right==curr)
-                        prev->right = curr->left;
-                    else
-                        prev->left = curr->left;
+                    return root;
                 }
-                break;
-            }else if(curr->val<key){
-                prev = curr;
-                curr = curr->right;
-            }else{
-                prev = curr;
-                curr = curr->left;
+            }else{//right child to be deleted
+                if(curr->right){
+                    if(curr->right->val==key){
+                        TreeNode* target = curr->right;
+                        if(target->right){
+                            TreeNode* conn = target->right;
+                            while(conn->left){
+                                conn = conn->left;
+                            }
+                            conn->left = target->left;
+                            curr->right = target->right;
+                            return root;
+                        }else{
+                            curr->right = target->left;
+                            return root;
+                        }
+                    }else{
+                        curr = curr->right;
+                    }
+                }else{
+                    return root;
+                }
             }
         }
         return root;
