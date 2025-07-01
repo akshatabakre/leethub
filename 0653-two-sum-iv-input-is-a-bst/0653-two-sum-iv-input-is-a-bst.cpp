@@ -10,47 +10,56 @@
  * };
  */
 
-class BSTIterator{
-private:
-stack<TreeNode*> s;
-bool reverse;
-public:
-BSTIterator(TreeNode* root,bool reverse){
-    this->reverse = reverse;
-    pushnodes(root);
-}
-void pushnodes(TreeNode* root){
-    while(root){
-        s.push(root);
-        root = (reverse)? root->right : root->left;
+class BST_Iterator{
+    stack<TreeNode*> st;
+    bool flag;//successor if true
+    public:
+    BST_Iterator(TreeNode* root,bool flag){
+        this->flag = flag;
+        pushNodes(root);
     }
-}
-bool hasnext(){
-    return !s.empty();
-}
-int next(){
-    TreeNode* n = s.top();
-    s.pop();
-    if(reverse){
-        pushnodes(n->left);
-    }else{
-        pushnodes(n->right);
+    void pushNodes(TreeNode* root){
+        if(!root)   return;
+        TreeNode* curr = root;
+        while(curr){
+            st.push(curr);
+            if(flag){
+                curr = curr->left;
+            }else{
+                curr = curr->right;
+            }
+        }
     }
-    return n->val;
-}
+    bool empty(){
+        return st.empty();
+    }
+    int move(){
+        TreeNode* top = st.top();
+        int x = top->val;
+        st.pop();
+        if(flag){
+            pushNodes(top->right);
+        }else{
+            pushNodes(top->left);
+        }
+        return x;
+    }
 };
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
-        BSTIterator n(root,0);
-        BSTIterator b(root,1);
-        int i = n.next(), j = b.next();
-        while(i<j){
-            if(i+j==k)  return true;
-            if(i+j<k){
-                i = n.next();
+        BST_Iterator next(root,true), prev(root,false);
+        int x = next.move(), y = prev.move();
+        while(x<y && !next.empty() && !prev.empty()){
+            if(x + y == k){
+                return true;
+            }
+            if(x+y > k){
+                cout<<"prev"<<endl;
+                y = prev.move();
             }else{
-                j = b.next();
+                cout<<"next"<<endl;
+                x = next.move();
             }
         }
         return false;
