@@ -34,6 +34,7 @@ Record of leetcode submissions on github
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akshatabakre/leethub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -263,6 +264,7 @@ Record of leetcode submissions on github
 | [2792-neighboring-bitwise-xor](https://github.com/akshatabakre/leethub/tree/master/2792-neighboring-bitwise-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Record of leetcode submissions on github
 | [0050-powx-n](https://github.com/akshatabakre/leethub/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/akshatabakre/leethub/tree/master/0060-permutation-sequence) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
 |  |
 | ------- |
