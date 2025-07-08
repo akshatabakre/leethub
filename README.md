@@ -178,6 +178,7 @@ Record of leetcode submissions on github
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/akshatabakre/leethub/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-sum-of-unique-elements](https://github.com/akshatabakre/leethub/tree/master/1848-sum-of-unique-elements) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshatabakre/leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshatabakre/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -532,6 +533,7 @@ Record of leetcode submissions on github
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/akshatabakre/leethub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akshatabakre/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/akshatabakre/leethub/tree/master/1829-maximum-units-on-a-truck) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshatabakre/leethub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshatabakre/leethub/tree/master/2215-finding-3-digit-even-numbers) |
@@ -628,6 +630,7 @@ Record of leetcode submissions on github
 | [1468-check-if-n-and-its-double-exist](https://github.com/akshatabakre/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshatabakre/leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/akshatabakre/leethub/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshatabakre/leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/akshatabakre/leethub/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/akshatabakre/leethub/tree/master/3643-zero-array-transformation-ii) |
@@ -796,6 +799,7 @@ Record of leetcode submissions on github
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshatabakre/leethub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akshatabakre/leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/akshatabakre/leethub/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/akshatabakre/leethub/tree/master/2562-count-ways-to-build-good-strings) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
