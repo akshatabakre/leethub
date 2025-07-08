@@ -46,6 +46,7 @@ Record of leetcode submissions on github
 | [0016-3sum-closest](https://github.com/akshatabakre/leethub/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/akshatabakre/leethub/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ Record of leetcode submissions on github
 | [0037-sudoku-solver](https://github.com/akshatabakre/leethub/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akshatabakre/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatabakre/leethub/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/akshatabakre/leethub/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/akshatabakre/leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
@@ -697,6 +699,7 @@ Record of leetcode submissions on github
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -766,6 +769,7 @@ Record of leetcode submissions on github
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/akshatabakre/leethub/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/akshatabakre/leethub/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/akshatabakre/leethub/tree/master/0062-unique-paths) |
@@ -829,6 +833,7 @@ Record of leetcode submissions on github
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
