@@ -1,54 +1,30 @@
 class Solution {
 public:
-    bool sameSign(int a,int b){      return ((a>0 && b>0) || (a<0 && b<0));}
-    bool movAway(int a,int b){       return (a>0 && b<0);}
-    vector<int> asteroidCollision(vector<int>& asteroids) {
+    vector<int> asteroidCollision(vector<int>& a) {
+        int n = a.size();
         stack<int> st;
-        int n = asteroids.size();
-        for(int i=0;i<n;i++){
-            int ast = asteroids[i];
-            if(st.empty()){
-                st.push(ast);
-                // cout<<"pushed "<<ast<<endl;
-                continue;
-            }else{
-                // if(sameSign(ast,st.top() || movAway(ast,st.top())){
-                //     st.push(ast);
-                //     continue;
-                // }
-                bool haveToPush = true;
-                while(!st.empty()){
-                    if(sameSign(ast,st.top()) || movAway(ast,st.top())){
-                        st.push(ast);
-                        haveToPush = false; 
-                        break;
-                    }
-                    if(abs(ast)<abs(st.top())){   
-                        haveToPush = false; 
-                        break;}
-                    else if(abs(ast)==abs(st.top())){
-                        st.pop();
-                        haveToPush = false; 
-                        break;
-                    }
+        for(int ast:a){
+            bool alive = true;
+            while(alive && st.empty()==false && st.top()>0 && ast<0){
+                if(abs(st.top())>abs(ast)){
+                    alive = false;
+                }else if(abs(ast)==abs(st.top())){
+                    alive = false;
+                    st.pop();
+                }else{
                     st.pop();
                 }
-                if(haveToPush){
-                    st.push(ast);
-                }
             }
-            // if(st.empty()){
-            //     cout<<"empty"<<endl;
-            // }else{
-            //     cout<<st.top()<<endl;
-            // }
+            if(alive){
+                st.push(ast);
+            }
         }
-        vector<int> ans;
+        vector<int> v;
         while(!st.empty()){
-            ans.push_back(st.top());
+            v.push_back(st.top());
             st.pop();
         }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        reverse(v.begin(),v.end());
+        return v;
     }
 };
