@@ -231,6 +231,7 @@ Record of leetcode submissions on github
 | [3643-zero-array-transformation-ii](https://github.com/akshatabakre/leethub/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshatabakre/leethub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
@@ -379,6 +380,7 @@ Record of leetcode submissions on github
 | [2509-minimize-xor](https://github.com/akshatabakre/leethub/tree/master/2509-minimize-xor) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatabakre/leethub/tree/master/3195-separate-black-and-white-balls) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshatabakre/leethub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshatabakre/leethub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Trie
 |  |
@@ -695,6 +697,7 @@ Record of leetcode submissions on github
 | [2478-longest-nice-subarray](https://github.com/akshatabakre/leethub/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/akshatabakre/leethub/tree/master/3483-alternating-groups-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/akshatabakre/leethub/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshatabakre/leethub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Stack
 |  |
