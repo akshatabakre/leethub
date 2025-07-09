@@ -193,6 +193,7 @@ Record of leetcode submissions on github
 | [2195-time-needed-to-buy-tickets](https://github.com/akshatabakre/leethub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshatabakre/leethub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshatabakre/leethub/tree/master/2215-finding-3-digit-even-numbers) |
+| [2227-sum-of-subarray-ranges](https://github.com/akshatabakre/leethub/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshatabakre/leethub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akshatabakre/leethub/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -717,6 +718,7 @@ Record of leetcode submissions on github
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshatabakre/leethub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/akshatabakre/leethub/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/akshatabakre/leethub/tree/master/3447-clear-digits) |
 ## Backtracking
@@ -845,6 +847,7 @@ Record of leetcode submissions on github
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/akshatabakre/leethub/tree/master/2227-sum-of-subarray-ranges) |
 ## Rolling Hash
 |  |
 | ------- |
