@@ -36,6 +36,7 @@ Record of leetcode submissions on github
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
@@ -233,6 +234,7 @@ Record of leetcode submissions on github
 | [3643-zero-array-transformation-ii](https://github.com/akshatabakre/leethub/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshatabakre/leethub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
@@ -556,6 +558,7 @@ Record of leetcode submissions on github
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshatabakre/leethub/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshatabakre/leethub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/akshatabakre/leethub/tree/master/3430-count-days-without-meetings) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Geometry
 |  |
 | ------- |
@@ -828,12 +831,14 @@ Record of leetcode submissions on github
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/akshatabakre/leethub/tree/master/2562-count-ways-to-build-good-strings) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/akshatabakre/leethub/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
+| [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
