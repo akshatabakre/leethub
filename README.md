@@ -239,6 +239,7 @@ Record of leetcode submissions on github
 | [3737-paint-house-iv](https://github.com/akshatabakre/leethub/tree/master/3737-paint-house-iv) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshatabakre/leethub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
@@ -347,6 +348,7 @@ Record of leetcode submissions on github
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshatabakre/leethub/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/akshatabakre/leethub/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/akshatabakre/leethub/tree/master/3617-find-the-original-typed-string-i) |
+| [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -641,6 +643,7 @@ Record of leetcode submissions on github
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/akshatabakre/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshatabakre/leethub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshatabakre/leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -789,6 +792,7 @@ Record of leetcode submissions on github
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Dynamic Programming
@@ -876,11 +880,13 @@ Record of leetcode submissions on github
 | ------- |
 | [0214-shortest-palindrome](https://github.com/akshatabakre/leethub/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshatabakre/leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/akshatabakre/leethub/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshatabakre/leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
