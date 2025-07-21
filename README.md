@@ -89,6 +89,7 @@ Record of leetcode submissions on github
 | [0039-combination-sum](https://github.com/akshatabakre/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatabakre/leethub/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/akshatabakre/leethub/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/akshatabakre/leethub/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/akshatabakre/leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
@@ -377,6 +378,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatabakre/leethub/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/akshatabakre/leethub/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/akshatabakre/leethub/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshatabakre/leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/akshatabakre/leethub/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/akshatabakre/leethub/tree/master/0455-assign-cookies) |
@@ -808,6 +810,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/akshatabakre/leethub/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/akshatabakre/leethub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/akshatabakre/leethub/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/akshatabakre/leethub/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
