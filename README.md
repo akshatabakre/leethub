@@ -124,6 +124,7 @@ Record of leetcode submissions on github
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/akshatabakre/leethub/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/akshatabakre/leethub/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/akshatabakre/leethub/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/akshatabakre/leethub/tree/master/0322-coin-change) |
@@ -879,11 +880,13 @@ Record of leetcode submissions on github
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/akshatabakre/leethub/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/akshatabakre/leethub/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Monotonic Stack
@@ -1040,6 +1043,7 @@ Record of leetcode submissions on github
 | [0173-binary-search-tree-iterator](https://github.com/akshatabakre/leethub/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/akshatabakre/leethub/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshatabakre/leethub/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
