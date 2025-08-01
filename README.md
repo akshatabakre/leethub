@@ -104,6 +104,7 @@ Record of leetcode submissions on github
 | [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/akshatabakre/leethub/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/akshatabakre/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akshatabakre/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/akshatabakre/leethub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatabakre/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -839,6 +840,7 @@ Record of leetcode submissions on github
 | [0072-edit-distance](https://github.com/akshatabakre/leethub/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/akshatabakre/leethub/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/akshatabakre/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akshatabakre/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/akshatabakre/leethub/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatabakre/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
