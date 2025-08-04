@@ -158,6 +158,7 @@ Record of leetcode submissions on github
 | [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/akshatabakre/leethub/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/akshatabakre/leethub/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
@@ -478,6 +479,7 @@ Record of leetcode submissions on github
 | [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/akshatabakre/leethub/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akshatabakre/leethub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -737,6 +739,7 @@ Record of leetcode submissions on github
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatabakre/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshatabakre/leethub/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/akshatabakre/leethub/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akshatabakre/leethub/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
