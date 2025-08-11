@@ -113,6 +113,7 @@ Record of leetcode submissions on github
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/akshatabakre/leethub/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akshatabakre/leethub/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/akshatabakre/leethub/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/akshatabakre/leethub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/akshatabakre/leethub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
@@ -861,6 +862,7 @@ Record of leetcode submissions on github
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/akshatabakre/leethub/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/akshatabakre/leethub/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/akshatabakre/leethub/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/akshatabakre/leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akshatabakre/leethub/tree/master/0213-house-robber-ii) |
