@@ -28,6 +28,7 @@ Record of leetcode submissions on github
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akshatabakre/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/akshatabakre/leethub/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/akshatabakre/leethub/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/akshatabakre/leethub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -219,6 +220,7 @@ Record of leetcode submissions on github
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/akshatabakre/leethub/tree/master/2358-number-of-ways-to-split-array) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akshatabakre/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/akshatabakre/leethub/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akshatabakre/leethub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/akshatabakre/leethub/tree/master/2478-longest-nice-subarray) |
