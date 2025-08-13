@@ -13,6 +13,7 @@ Record of leetcode submissions on github
 | [0062-unique-paths](https://github.com/akshatabakre/leethub/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/akshatabakre/leethub/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/akshatabakre/leethub/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
@@ -455,6 +456,7 @@ Record of leetcode submissions on github
 | [0044-wildcard-matching](https://github.com/akshatabakre/leethub/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/akshatabakre/leethub/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/akshatabakre/leethub/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/akshatabakre/leethub/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
