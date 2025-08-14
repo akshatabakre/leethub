@@ -256,6 +256,7 @@ Record of leetcode submissions on github
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/akshatabakre/leethub/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshatabakre/leethub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/akshatabakre/leethub/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/akshatabakre/leethub/tree/master/3643-zero-array-transformation-ii) |
 | [3654-minimum-array-sum](https://github.com/akshatabakre/leethub/tree/master/3654-minimum-array-sum) |
@@ -752,6 +753,7 @@ Record of leetcode submissions on github
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akshatabakre/leethub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/akshatabakre/leethub/tree/master/2479-meeting-rooms-iii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshatabakre/leethub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/akshatabakre/leethub/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Bucket Sort
@@ -853,6 +855,7 @@ Record of leetcode submissions on github
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshatabakre/leethub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
@@ -1142,6 +1145,7 @@ Record of leetcode submissions on github
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/akshatabakre/leethub/tree/master/2793-count-the-number-of-complete-components) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshatabakre/leethub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/akshatabakre/leethub/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Topological Sort
@@ -1158,6 +1162,7 @@ Record of leetcode submissions on github
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akshatabakre/leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshatabakre/leethub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/akshatabakre/leethub/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Merge Sort
 |  |
