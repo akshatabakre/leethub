@@ -27,6 +27,7 @@ Record of leetcode submissions on github
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatabakre/leethub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/akshatabakre/leethub/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akshatabakre/leethub/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
