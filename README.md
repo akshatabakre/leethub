@@ -14,6 +14,7 @@ Record of leetcode submissions on github
 | [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/akshatabakre/leethub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akshatabakre/leethub/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/akshatabakre/leethub/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
@@ -285,6 +286,7 @@ Record of leetcode submissions on github
 | [0222-count-complete-tree-nodes](https://github.com/akshatabakre/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/akshatabakre/leethub/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/akshatabakre/leethub/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/akshatabakre/leethub/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshatabakre/leethub/tree/master/0795-k-th-symbol-in-grammar) |
@@ -463,6 +465,7 @@ Record of leetcode submissions on github
 | [0050-powx-n](https://github.com/akshatabakre/leethub/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/akshatabakre/leethub/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/akshatabakre/leethub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akshatabakre/leethub/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshatabakre/leethub/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
