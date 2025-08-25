@@ -148,6 +148,7 @@ Record of leetcode submissions on github
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/akshatabakre/leethub/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/akshatabakre/leethub/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
@@ -400,6 +401,7 @@ Record of leetcode submissions on github
 | [0054-spiral-matrix](https://github.com/akshatabakre/leethub/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akshatabakre/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/akshatabakre/leethub/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/akshatabakre/leethub/tree/master/0735-asteroid-collision) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akshatabakre/leethub/tree/master/2195-time-needed-to-buy-tickets) |
@@ -861,6 +863,7 @@ Record of leetcode submissions on github
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/akshatabakre/leethub/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akshatabakre/leethub/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/akshatabakre/leethub/tree/master/0794-swim-in-rising-water) |
