@@ -341,6 +341,7 @@ Record of leetcode submissions on github
 | [0214-shortest-palindrome](https://github.com/akshatabakre/leethub/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/akshatabakre/leethub/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0306-additive-number](https://github.com/akshatabakre/leethub/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/akshatabakre/leethub/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
@@ -838,6 +839,7 @@ Record of leetcode submissions on github
 | [0126-word-ladder-ii](https://github.com/akshatabakre/leethub/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/akshatabakre/leethub/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/akshatabakre/leethub/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/akshatabakre/leethub/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/akshatabakre/leethub/tree/master/0800-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatabakre/leethub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
