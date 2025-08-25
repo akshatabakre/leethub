@@ -63,6 +63,7 @@ Record of leetcode submissions on github
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshatabakre/leethub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/akshatabakre/leethub/tree/master/0455-assign-cookies) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akshatabakre/leethub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -151,6 +152,7 @@ Record of leetcode submissions on github
 | [0498-diagonal-traverse](https://github.com/akshatabakre/leethub/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akshatabakre/leethub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshatabakre/leethub/tree/master/0594-longest-harmonious-subsequence) |
@@ -347,6 +349,7 @@ Record of leetcode submissions on github
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/akshatabakre/leethub/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshatabakre/leethub/tree/master/0516-longest-palindromic-subsequence) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akshatabakre/leethub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
@@ -606,6 +609,7 @@ Record of leetcode submissions on github
 | [0347-top-k-frequent-elements](https://github.com/akshatabakre/leethub/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/akshatabakre/leethub/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/akshatabakre/leethub/tree/master/0455-assign-cookies) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/akshatabakre/leethub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshatabakre/leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
