@@ -212,6 +212,7 @@ Record of leetcode submissions on github
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshatabakre/leethub/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akshatabakre/leethub/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatabakre/leethub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akshatabakre/leethub/tree/master/2195-time-needed-to-buy-tickets) |
@@ -381,6 +382,7 @@ Record of leetcode submissions on github
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshatabakre/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akshatabakre/leethub/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshatabakre/leethub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshatabakre/leethub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshatabakre/leethub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -541,6 +543,7 @@ Record of leetcode submissions on github
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshatabakre/leethub/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshatabakre/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akshatabakre/leethub/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshatabakre/leethub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshatabakre/leethub/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshatabakre/leethub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -584,6 +587,7 @@ Record of leetcode submissions on github
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/akshatabakre/leethub/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akshatabakre/leethub/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshatabakre/leethub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshatabakre/leethub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
