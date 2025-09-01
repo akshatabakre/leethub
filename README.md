@@ -209,6 +209,7 @@ Record of leetcode submissions on github
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshatabakre/leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshatabakre/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/akshatabakre/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshatabakre/leethub/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -448,6 +449,7 @@ Record of leetcode submissions on github
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/akshatabakre/leethub/tree/master/1829-maximum-units-on-a-truck) |
+| [1917-maximum-average-pass-ratio](https://github.com/akshatabakre/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshatabakre/leethub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshatabakre/leethub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akshatabakre/leethub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -781,6 +783,7 @@ Record of leetcode submissions on github
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshatabakre/leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/akshatabakre/leethub/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/akshatabakre/leethub/tree/master/1917-maximum-average-pass-ratio) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshatabakre/leethub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
