@@ -42,6 +42,7 @@ Record of leetcode submissions on github
 | [2649-count-total-number-of-colored-cells](https://github.com/akshatabakre/leethub/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akshatabakre/leethub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/akshatabakre/leethub/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -259,6 +260,7 @@ Record of leetcode submissions on github
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/akshatabakre/leethub/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/akshatabakre/leethub/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshatabakre/leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akshatabakre/leethub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -646,6 +648,7 @@ Record of leetcode submissions on github
 | [2636-maximum-subsequence-score](https://github.com/akshatabakre/leethub/tree/master/2636-maximum-subsequence-score) |
 | [2834-relocate-marbles](https://github.com/akshatabakre/leethub/tree/master/2834-relocate-marbles) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshatabakre/leethub/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshatabakre/leethub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/akshatabakre/leethub/tree/master/3430-count-days-without-meetings) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -655,6 +658,7 @@ Record of leetcode submissions on github
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/akshatabakre/leethub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Prefix Sum
 |  |
@@ -866,6 +870,7 @@ Record of leetcode submissions on github
 | [2215-finding-3-digit-even-numbers](https://github.com/akshatabakre/leethub/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akshatabakre/leethub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Matrix
