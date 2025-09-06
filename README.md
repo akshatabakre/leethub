@@ -24,6 +24,7 @@ Record of leetcode submissions on github
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshatabakre/leethub/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/akshatabakre/leethub/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatabakre/leethub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -447,6 +448,7 @@ Record of leetcode submissions on github
 | [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/akshatabakre/leethub/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/akshatabakre/leethub/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshatabakre/leethub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
