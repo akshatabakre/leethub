@@ -420,6 +420,7 @@ Record of leetcode submissions on github
 | [3617-find-the-original-typed-string-i](https://github.com/akshatabakre/leethub/tree/master/3617-find-the-original-typed-string-i) |
 | [3797-design-spreadsheet](https://github.com/akshatabakre/leethub/tree/master/3797-design-spreadsheet) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshatabakre/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -590,6 +591,7 @@ Record of leetcode submissions on github
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshatabakre/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -614,6 +616,7 @@ Record of leetcode submissions on github
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshatabakre/leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshatabakre/leethub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshatabakre/leethub/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshatabakre/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
