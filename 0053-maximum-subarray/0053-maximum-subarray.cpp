@@ -2,12 +2,14 @@ class Solution {
 public:
     //KADANE'S ALGORITHM
     int maxSubArray(vector<int>& nums) {
-        int maxsum = -1e9, sum = 0, n = nums.size();
+        int mxsm = -1e9;
+        int n = nums.size();
+        int sm = 0;
         for(int i=0;i<n;i++){
-            sum+=nums[i];
-            maxsum = max(sum,maxsum);
-            sum = max(0,sum);
+            sm+=nums[i];
+            mxsm = max(mxsm,sm);
+            sm = max(0,sm);
         }
-        return maxsum;
+        return mxsm;
     }
 };
