@@ -1,46 +1,44 @@
 class Solution {
 public:
+    bool isvalid(int a,int b,int n,int m){
+        return (a>=0 && b>=0 && a<n && b<m);
+    }
     int orangesRotting(vector<vector<int>>& grid) {
+        int n = grid.size(), m = grid[0].size();
         queue<pair<pair<int,int>,int>> q;
-        int m = grid.size(), n = grid[0].size();
-        vector<vector<int>> vis(m,vector<int>(n,0));
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        vector<vector<int>> vis(n,vector<int>(m,0));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
                     q.push({{i,j},0});
                     vis[i][j] = 1;
                 }
             }
         }
-        int maxtime = 0;
+        int timer = 0;
+        int dx[] = {-1,0,1,0}, dy[] = {0,-1,0,1};
         while(!q.empty()){
-            int x = q.front().first.first, y = q.front().first.second, t = q.front().second;
-            maxtime = max(t,maxtime);
-            q.pop();
-            for(int i=-1;i<=1;i++){
-                if(x+i>=0 && x+i<m){
-                    if(!vis[x+i][y] && grid[x+i][y]==1){
-                        vis[x+i][y] = 1;
-                        q.push({{x+i,y},t+1});
-                        grid[x+i][y] = 2;
+                auto curr = q.front();
+                int x = curr.first.first, y = curr.first.second;
+                int t = curr.second;
+                q.pop();
+                timer = max(t,timer);
+                for(int i=0;i<4;i++){
+                    int nx = x+dx[i], ny = y + dy[i];
+                    if(isvalid(nx,ny,n,m) && !vis[nx][ny] && grid[nx][ny]==1){
+                        q.push({{nx,ny},t+1});
+                        vis[nx][ny] = 1;
                     }
-                }
-                if(y+i>=0 && y+i<n){
-                    if(!vis[x][y+i] && grid[x][y+i]==1){
-                        vis[x][y+i] = 1;
-                        q.push({{x,y+i},t+1});
-                        grid[x][y+i] = 2;
-                    }
-                }
+                
             }
         }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]==1){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(!vis[i][j] && grid[i][j]==1){
                     return -1;
                 }
             }
         }
-        return maxtime;
+        return timer;
     }
 };
