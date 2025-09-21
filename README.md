@@ -114,6 +114,7 @@ Record of leetcode submissions on github
 | [0051-n-queens](https://github.com/akshatabakre/leethub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akshatabakre/leethub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshatabakre/leethub/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/akshatabakre/leethub/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/akshatabakre/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akshatabakre/leethub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
@@ -634,6 +635,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0016-3sum-closest](https://github.com/akshatabakre/leethub/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/akshatabakre/leethub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
