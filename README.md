@@ -65,6 +65,7 @@ Record of leetcode submissions on github
 | [0031-next-permutation](https://github.com/akshatabakre/leethub/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
@@ -359,6 +360,7 @@ Record of leetcode submissions on github
 | [0126-word-ladder-ii](https://github.com/akshatabakre/leethub/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/akshatabakre/leethub/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshatabakre/leethub/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/akshatabakre/leethub/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/akshatabakre/leethub/tree/master/0257-binary-tree-paths) |
