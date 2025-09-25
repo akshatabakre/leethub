@@ -1,25 +1,27 @@
 class Solution {
 public:
-    int f(int ind,int prevind,vector<int>& nums,vector<vector<int>>& dp){
+    vector<int> nums;
+    vector<vector<int>> dp;
+    int maxlen(int ind,int prev){
         if(ind==nums.size()){
             return 0;
         }
-        if(dp[ind][prevind]!=-1)    return dp[ind][prevind];
-        int nottake = 0 + f(ind+1,prevind,nums,dp);
-        int take = 0;
-        if(prevind==0){
-            take = 1 + f(ind+1,ind+1,nums,dp);
-        } else if(nums[ind]>nums[prevind-1]){
-            take = 1 + f(ind+1,ind+1,nums,dp);
+        if(prev!=-1 && dp[ind][prev]!=-1){
+            return dp[ind][prev];
         }
-        // if(prevind==-1){
-        //     return max(take,nottake);
-        // }
-        return dp[ind][prevind] = max(take,nottake);
+        int take = 0, nottake = maxlen(ind+1,prev);
+        if(prev==-1 || nums[ind]>nums[prev]){
+            take = 1 + maxlen(ind+1,ind);
+        }
+        if(prev==-1){
+            return max(nottake,take);
+        }
+        return dp[ind][prev] = max(take,nottake);
     }
     int lengthOfLIS(vector<int>& nums) {
+        this->nums = nums;
         int n = nums.size();
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return f(0,0,nums,dp);
+        dp.resize(n,vector<int>(n,-1));
+        return maxlen(0,-1);
     }
 };
