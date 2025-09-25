@@ -357,6 +357,7 @@ Record of leetcode submissions on github
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akshatabakre/leethub/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/akshatabakre/leethub/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/akshatabakre/leethub/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/akshatabakre/leethub/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/akshatabakre/leethub/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
@@ -954,6 +955,7 @@ Record of leetcode submissions on github
 | [0064-minimum-path-sum](https://github.com/akshatabakre/leethub/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/akshatabakre/leethub/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/akshatabakre/leethub/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/akshatabakre/leethub/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/akshatabakre/leethub/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/akshatabakre/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akshatabakre/leethub/tree/master/0119-pascals-triangle-ii) |
