@@ -360,6 +360,7 @@ Record of leetcode submissions on github
 | [0091-decode-ways](https://github.com/akshatabakre/leethub/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/akshatabakre/leethub/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/akshatabakre/leethub/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/akshatabakre/leethub/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/akshatabakre/leethub/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/akshatabakre/leethub/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0151-reverse-words-in-a-string) |
@@ -529,6 +530,7 @@ Record of leetcode submissions on github
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/akshatabakre/leethub/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/akshatabakre/leethub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshatabakre/leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1153,6 +1155,7 @@ Record of leetcode submissions on github
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/akshatabakre/leethub/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/akshatabakre/leethub/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/akshatabakre/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
