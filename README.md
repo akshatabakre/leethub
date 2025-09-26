@@ -736,6 +736,7 @@ Record of leetcode submissions on github
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshatabakre/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/akshatabakre/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshatabakre/leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1167,6 +1168,7 @@ Record of leetcode submissions on github
 | [0127-word-ladder](https://github.com/akshatabakre/leethub/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/akshatabakre/leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akshatabakre/leethub/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/akshatabakre/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/akshatabakre/leethub/tree/master/0322-coin-change) |
@@ -1241,6 +1243,7 @@ Record of leetcode submissions on github
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/akshatabakre/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/akshatabakre/leethub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/akshatabakre/leethub/tree/master/0744-network-delay-time) |
@@ -1258,6 +1261,7 @@ Record of leetcode submissions on github
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/akshatabakre/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/akshatabakre/leethub/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
