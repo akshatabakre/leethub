@@ -43,6 +43,7 @@ Record of leetcode submissions on github
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/akshatabakre/leethub/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/akshatabakre/leethub/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/akshatabakre/leethub/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/akshatabakre/leethub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akshatabakre/leethub/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -264,6 +265,7 @@ Record of leetcode submissions on github
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshatabakre/leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/akshatabakre/leethub/tree/master/2636-maximum-subsequence-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/akshatabakre/leethub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/akshatabakre/leethub/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akshatabakre/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -491,6 +493,7 @@ Record of leetcode submissions on github
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshatabakre/leethub/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/akshatabakre/leethub/tree/master/2509-minimize-xor) |
 | [2636-maximum-subsequence-score](https://github.com/akshatabakre/leethub/tree/master/2636-maximum-subsequence-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/akshatabakre/leethub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/akshatabakre/leethub/tree/master/3195-separate-black-and-white-balls) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshatabakre/leethub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshatabakre/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -596,6 +599,7 @@ Record of leetcode submissions on github
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akshatabakre/leethub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/akshatabakre/leethub/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/akshatabakre/leethub/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshatabakre/leethub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2834-relocate-marbles](https://github.com/akshatabakre/leethub/tree/master/2834-relocate-marbles) |
