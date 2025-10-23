@@ -53,6 +53,7 @@ Record of leetcode submissions on github
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/akshatabakre/leethub/tree/master/3830-find-closest-person) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -437,6 +438,7 @@ Record of leetcode submissions on github
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/akshatabakre/leethub/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/akshatabakre/leethub/tree/master/3617-find-the-original-typed-string-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/akshatabakre/leethub/tree/master/3797-design-spreadsheet) |
 | [3821-count-cells-in-overlapping-horizontal-and-vertical-substrings](https://github.com/akshatabakre/leethub/tree/master/3821-count-cells-in-overlapping-horizontal-and-vertical-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshatabakre/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -461,6 +463,7 @@ Record of leetcode submissions on github
 | [3447-clear-digits](https://github.com/akshatabakre/leethub/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -653,6 +656,7 @@ Record of leetcode submissions on github
 | [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 | [2610-closest-prime-numbers-in-range](https://github.com/akshatabakre/leethub/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Sorting
 |  |
@@ -1045,6 +1049,7 @@ Record of leetcode submissions on github
 | [0062-unique-paths](https://github.com/akshatabakre/leethub/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
