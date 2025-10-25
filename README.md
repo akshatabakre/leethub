@@ -33,6 +33,7 @@ Record of leetcode submissions on github
 | [1448-maximum-69-number](https://github.com/akshatabakre/leethub/tree/master/1448-maximum-69-number) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/akshatabakre/leethub/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/akshatabakre/leethub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akshatabakre/leethub/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
