@@ -51,6 +51,7 @@ Record of leetcode submissions on github
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/akshatabakre/leethub/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -293,6 +294,7 @@ Record of leetcode submissions on github
 | [3483-alternating-groups-ii](https://github.com/akshatabakre/leethub/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshatabakre/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/akshatabakre/leethub/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akshatabakre/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/akshatabakre/leethub/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -626,6 +628,7 @@ Record of leetcode submissions on github
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshatabakre/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshatabakre/leethub/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/akshatabakre/leethub/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshatabakre/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
