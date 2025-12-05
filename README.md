@@ -50,6 +50,7 @@ Record of leetcode submissions on github
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/akshatabakre/leethub/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -290,6 +291,7 @@ Record of leetcode submissions on github
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/akshatabakre/leethub/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/akshatabakre/leethub/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshatabakre/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/akshatabakre/leethub/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshatabakre/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -755,6 +757,7 @@ Record of leetcode submissions on github
 | [2465-shifting-letters-ii](https://github.com/akshatabakre/leethub/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/akshatabakre/leethub/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akshatabakre/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akshatabakre/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshatabakre/leethub/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/akshatabakre/leethub/tree/master/3639-zero-array-transformation-i) |
