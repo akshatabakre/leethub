@@ -59,6 +59,7 @@ Record of leetcode submissions on github
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/akshatabakre/leethub/tree/master/3830-find-closest-person) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
@@ -975,6 +976,7 @@ Record of leetcode submissions on github
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Matrix
 |  |
@@ -1075,6 +1077,7 @@ Record of leetcode submissions on github
 | [3654-minimum-array-sum](https://github.com/akshatabakre/leethub/tree/master/3654-minimum-array-sum) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3737-paint-house-iv](https://github.com/akshatabakre/leethub/tree/master/3737-paint-house-iv) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Combinatorics
