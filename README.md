@@ -314,6 +314,7 @@ Record of leetcode submissions on github
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3731-find-missing-elements](https://github.com/akshatabakre/leethub/tree/master/3731-find-missing-elements) |
 | [3737-paint-house-iv](https://github.com/akshatabakre/leethub/tree/master/3737-paint-house-iv) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshatabakre/leethub/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -640,6 +641,7 @@ Record of leetcode submissions on github
 | [3583-count-special-triplets](https://github.com/akshatabakre/leethub/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/akshatabakre/leethub/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshatabakre/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/akshatabakre/leethub/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/akshatabakre/leethub/tree/master/3827-implement-router) |
@@ -736,6 +738,7 @@ Record of leetcode submissions on github
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshatabakre/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshatabakre/leethub/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3731-find-missing-elements](https://github.com/akshatabakre/leethub/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akshatabakre/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 ## Geometry
 |  |
