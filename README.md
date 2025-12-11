@@ -288,6 +288,7 @@ Record of leetcode submissions on github
 | [2792-neighboring-bitwise-xor](https://github.com/akshatabakre/leethub/tree/master/2792-neighboring-bitwise-xor) |
 | [2834-relocate-marbles](https://github.com/akshatabakre/leethub/tree/master/2834-relocate-marbles) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshatabakre/leethub/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3194-find-words-containing-character](https://github.com/akshatabakre/leethub/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akshatabakre/leethub/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshatabakre/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1091,6 +1092,7 @@ Record of leetcode submissions on github
 | [2408-number-of-people-aware-of-a-secret](https://github.com/akshatabakre/leethub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/akshatabakre/leethub/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/akshatabakre/leethub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshatabakre/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/akshatabakre/leethub/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3654-minimum-array-sum](https://github.com/akshatabakre/leethub/tree/master/3654-minimum-array-sum) |
