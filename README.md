@@ -54,6 +54,7 @@ Record of leetcode submissions on github
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/akshatabakre/leethub/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshatabakre/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -301,6 +302,7 @@ Record of leetcode submissions on github
 | [3429-special-array-i](https://github.com/akshatabakre/leethub/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/akshatabakre/leethub/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshatabakre/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/akshatabakre/leethub/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshatabakre/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -488,6 +490,7 @@ Record of leetcode submissions on github
 | [2551-apply-operations-to-an-array](https://github.com/akshatabakre/leethub/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2834-relocate-marbles](https://github.com/akshatabakre/leethub/tree/master/2834-relocate-marbles) |
+| [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshatabakre/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/akshatabakre/leethub/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -751,6 +754,7 @@ Record of leetcode submissions on github
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshatabakre/leethub/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/akshatabakre/leethub/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/akshatabakre/leethub/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshatabakre/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshatabakre/leethub/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
