@@ -39,6 +39,7 @@ Record of leetcode submissions on github
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akshatabakre/leethub/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/akshatabakre/leethub/tree/master/1925-count-square-sum-triples) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/akshatabakre/leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2402-maximum-xor-after-operations](https://github.com/akshatabakre/leethub/tree/master/2402-maximum-xor-after-operations) |
@@ -244,6 +245,7 @@ Record of leetcode submissions on github
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshatabakre/leethub/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akshatabakre/leethub/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
@@ -1099,6 +1101,7 @@ Record of leetcode submissions on github
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/akshatabakre/leethub/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/akshatabakre/leethub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/akshatabakre/leethub/tree/master/2562-count-ways-to-build-good-strings) |
