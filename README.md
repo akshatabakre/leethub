@@ -312,6 +312,7 @@ Record of leetcode submissions on github
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/akshatabakre/leethub/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatabakre/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/akshatabakre/leethub/tree/master/3531-count-covered-buildings) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/akshatabakre/leethub/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshatabakre/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/akshatabakre/leethub/tree/master/3583-count-special-triplets) |
@@ -1111,6 +1112,7 @@ Record of leetcode submissions on github
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshatabakre/leethub/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/akshatabakre/leethub/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/akshatabakre/leethub/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3654-minimum-array-sum](https://github.com/akshatabakre/leethub/tree/master/3654-minimum-array-sum) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3737-paint-house-iv](https://github.com/akshatabakre/leethub/tree/master/3737-paint-house-iv) |
