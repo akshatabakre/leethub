@@ -330,6 +330,7 @@ Record of leetcode submissions on github
 | [3654-minimum-array-sum](https://github.com/akshatabakre/leethub/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3697-compute-decimal-representation](https://github.com/akshatabakre/leethub/tree/master/3697-compute-decimal-representation) |
+| [3698-split-array-with-minimum-difference](https://github.com/akshatabakre/leethub/tree/master/3698-split-array-with-minimum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3708-longest-fibonacci-subarray](https://github.com/akshatabakre/leethub/tree/master/3708-longest-fibonacci-subarray) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -804,6 +805,7 @@ Record of leetcode submissions on github
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshatabakre/leethub/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/akshatabakre/leethub/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/akshatabakre/leethub/tree/master/3643-zero-array-transformation-ii) |
+| [3698-split-array-with-minimum-difference](https://github.com/akshatabakre/leethub/tree/master/3698-split-array-with-minimum-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
 ## Depth-First Search
