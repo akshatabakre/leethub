@@ -205,6 +205,7 @@ Record of leetcode submissions on github
 | [0940-fruit-into-baskets](https://github.com/akshatabakre/leethub/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/akshatabakre/leethub/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshatabakre/leethub/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
@@ -438,6 +439,7 @@ Record of leetcode submissions on github
 | [0812-rotate-string](https://github.com/akshatabakre/leethub/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/akshatabakre/leethub/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/akshatabakre/leethub/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
@@ -529,6 +531,7 @@ Record of leetcode submissions on github
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/akshatabakre/leethub/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/akshatabakre/leethub/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1369-minimum-swaps-to-make-strings-equal) |
