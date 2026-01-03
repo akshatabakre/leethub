@@ -250,6 +250,7 @@ Record of leetcode submissions on github
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshatabakre/leethub/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshatabakre/leethub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/akshatabakre/leethub/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/akshatabakre/leethub/tree/master/1929-concatenation-of-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/akshatabakre/leethub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshatabakre/leethub/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -504,6 +505,7 @@ Record of leetcode submissions on github
 | [0498-diagonal-traverse](https://github.com/akshatabakre/leethub/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/akshatabakre/leethub/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/akshatabakre/leethub/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/akshatabakre/leethub/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akshatabakre/leethub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshatabakre/leethub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
