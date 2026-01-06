@@ -871,6 +871,7 @@ Record of leetcode submissions on github
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/akshatabakre/leethub/tree/master/1073-number-of-enclaves) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/akshatabakre/leethub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/akshatabakre/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/akshatabakre/leethub/tree/master/1753-path-with-minimum-effort) |
@@ -1253,6 +1254,7 @@ Record of leetcode submissions on github
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/akshatabakre/leethub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/akshatabakre/leethub/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -1290,6 +1292,7 @@ Record of leetcode submissions on github
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/akshatabakre/leethub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/akshatabakre/leethub/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -1323,6 +1326,7 @@ Record of leetcode submissions on github
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/akshatabakre/leethub/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akshatabakre/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/akshatabakre/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
