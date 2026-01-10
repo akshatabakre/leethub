@@ -440,6 +440,7 @@ Record of leetcode submissions on github
 | [0539-minimum-time-difference](https://github.com/akshatabakre/leethub/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/akshatabakre/leethub/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshatabakre/leethub/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/akshatabakre/leethub/tree/master/0800-letter-case-permutation) |
@@ -1122,6 +1123,7 @@ Record of leetcode submissions on github
 | [0516-longest-palindromic-subsequence](https://github.com/akshatabakre/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshatabakre/leethub/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akshatabakre/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
