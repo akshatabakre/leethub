@@ -461,6 +461,7 @@ Record of leetcode submissions on github
 | [1170-shortest-common-supersequence](https://github.com/akshatabakre/leethub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/akshatabakre/leethub/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akshatabakre/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatabakre/leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshatabakre/leethub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -657,6 +658,7 @@ Record of leetcode submissions on github
 | [1129-longest-string-chain](https://github.com/akshatabakre/leethub/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/akshatabakre/leethub/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akshatabakre/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatabakre/leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akshatabakre/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshatabakre/leethub/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -995,6 +997,7 @@ Record of leetcode submissions on github
 | [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akshatabakre/leethub/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatabakre/leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/akshatabakre/leethub/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/akshatabakre/leethub/tree/master/2478-longest-nice-subarray) |
