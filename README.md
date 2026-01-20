@@ -482,6 +482,7 @@ Record of leetcode submissions on github
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshatabakre/leethub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/akshatabakre/leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshatabakre/leethub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2262-total-appeal-of-a-string](https://github.com/akshatabakre/leethub/tree/master/2262-total-appeal-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshatabakre/leethub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akshatabakre/leethub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/akshatabakre/leethub/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -674,6 +675,7 @@ Record of leetcode submissions on github
 | [2215-finding-3-digit-even-numbers](https://github.com/akshatabakre/leethub/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/akshatabakre/leethub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2262-total-appeal-of-a-string](https://github.com/akshatabakre/leethub/tree/master/2262-total-appeal-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshatabakre/leethub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
@@ -1158,6 +1160,7 @@ Record of leetcode submissions on github
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2262-total-appeal-of-a-string](https://github.com/akshatabakre/leethub/tree/master/2262-total-appeal-of-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/akshatabakre/leethub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/akshatabakre/leethub/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/akshatabakre/leethub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
