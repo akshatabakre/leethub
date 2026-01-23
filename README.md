@@ -453,6 +453,7 @@ Record of leetcode submissions on github
 | [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/akshatabakre/leethub/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/akshatabakre/leethub/tree/master/0812-rotate-string) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/akshatabakre/leethub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshatabakre/leethub/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -647,6 +648,7 @@ Record of leetcode submissions on github
 | [0721-accounts-merge](https://github.com/akshatabakre/leethub/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/akshatabakre/leethub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshatabakre/leethub/tree/master/0797-rabbits-in-forest) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/akshatabakre/leethub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatabakre/leethub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1152,6 +1154,7 @@ Record of leetcode submissions on github
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshatabakre/leethub/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/akshatabakre/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/akshatabakre/leethub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshatabakre/leethub/tree/master/1025-minimum-cost-for-tickets) |
