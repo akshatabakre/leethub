@@ -359,6 +359,7 @@ Record of leetcode submissions on github
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3708-longest-fibonacci-subarray](https://github.com/akshatabakre/leethub/tree/master/3708-longest-fibonacci-subarray) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3719-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/akshatabakre/leethub/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akshatabakre/leethub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-paint-house-iv](https://github.com/akshatabakre/leethub/tree/master/3737-paint-house-iv) |
@@ -720,6 +721,7 @@ Record of leetcode submissions on github
 | [3606-coupon-code-validator](https://github.com/akshatabakre/leethub/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akshatabakre/leethub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akshatabakre/leethub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/akshatabakre/leethub/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshatabakre/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -867,6 +869,7 @@ Record of leetcode submissions on github
 | [3643-zero-array-transformation-ii](https://github.com/akshatabakre/leethub/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/akshatabakre/leethub/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3698-split-array-with-minimum-difference](https://github.com/akshatabakre/leethub/tree/master/3698-split-array-with-minimum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
 ## Depth-First Search
@@ -1228,6 +1231,7 @@ Record of leetcode submissions on github
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akshatabakre/leethub/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshatabakre/leethub/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/akshatabakre/leethub/tree/master/3791-fruits-into-baskets-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
@@ -1266,6 +1270,7 @@ Record of leetcode submissions on github
 | [0347-top-k-frequent-elements](https://github.com/akshatabakre/leethub/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
 ## Quickselect
