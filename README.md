@@ -397,6 +397,7 @@ Record of leetcode submissions on github
 | [0476-number-complement](https://github.com/akshatabakre/leethub/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshatabakre/leethub/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/akshatabakre/leethub/tree/master/0800-letter-case-permutation) |
+| [0868-binary-gap](https://github.com/akshatabakre/leethub/tree/master/0868-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/akshatabakre/leethub/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
