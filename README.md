@@ -397,6 +397,7 @@ Record of leetcode submissions on github
 | [0342-power-of-four](https://github.com/akshatabakre/leethub/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/akshatabakre/leethub/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/akshatabakre/leethub/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshatabakre/leethub/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/akshatabakre/leethub/tree/master/0800-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/akshatabakre/leethub/tree/master/0868-binary-gap) |
