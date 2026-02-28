@@ -37,6 +37,7 @@ Record of leetcode submissions on github
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/akshatabakre/leethub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/akshatabakre/leethub/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/akshatabakre/leethub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akshatabakre/leethub/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/akshatabakre/leethub/tree/master/1925-count-square-sum-triples) |
@@ -402,6 +403,7 @@ Record of leetcode submissions on github
 | [1054-complement-of-base-10-integer](https://github.com/akshatabakre/leethub/tree/master/1054-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akshatabakre/leethub/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akshatabakre/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshatabakre/leethub/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -531,6 +533,7 @@ Record of leetcode submissions on github
 | [0498-diagonal-traverse](https://github.com/akshatabakre/leethub/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/akshatabakre/leethub/tree/master/0735-asteroid-collision) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akshatabakre/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/akshatabakre/leethub/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/akshatabakre/leethub/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akshatabakre/leethub/tree/master/2195-time-needed-to-buy-tickets) |
