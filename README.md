@@ -508,6 +508,7 @@ Record of leetcode submissions on github
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshatabakre/leethub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akshatabakre/leethub/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/akshatabakre/leethub/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2370-longest-ideal-subsequence](https://github.com/akshatabakre/leethub/tree/master/2370-longest-ideal-subsequence) |
 | [2465-shifting-letters-ii](https://github.com/akshatabakre/leethub/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akshatabakre/leethub/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/akshatabakre/leethub/tree/master/2580-circular-sentence) |
@@ -708,6 +709,7 @@ Record of leetcode submissions on github
 | [2262-total-appeal-of-a-string](https://github.com/akshatabakre/leethub/tree/master/2262-total-appeal-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshatabakre/leethub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/akshatabakre/leethub/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2370-longest-ideal-subsequence](https://github.com/akshatabakre/leethub/tree/master/2370-longest-ideal-subsequence) |
 | [2434-design-a-number-container-system](https://github.com/akshatabakre/leethub/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akshatabakre/leethub/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/akshatabakre/leethub/tree/master/2479-meeting-rooms-iii) |
@@ -1214,6 +1216,7 @@ Record of leetcode submissions on github
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-total-appeal-of-a-string](https://github.com/akshatabakre/leethub/tree/master/2262-total-appeal-of-a-string) |
+| [2370-longest-ideal-subsequence](https://github.com/akshatabakre/leethub/tree/master/2370-longest-ideal-subsequence) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/akshatabakre/leethub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/akshatabakre/leethub/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/akshatabakre/leethub/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
