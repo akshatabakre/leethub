@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //PREFIX MAX/SUFFIX MAX
     vector<int> leftmax(vector<int>& h,int n){
         vector<int> lm(n);
         lm[0] = h[0];
@@ -22,9 +23,7 @@ public:
         vector<int> right = rightmax(height,n);
         int ans = 0;
         for(int i=0;i<n;i++){
-            // if(left[i]!=-1 && right[i]!=n){
-                ans+=(min(left[i],right[i])-height[i]);
-            // }
+            ans+=(min(left[i],right[i])-height[i]);
         }
         return ans;
     }
