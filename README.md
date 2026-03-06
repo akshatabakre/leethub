@@ -170,6 +170,7 @@ Record of leetcode submissions on github
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/akshatabakre/leethub/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/akshatabakre/leethub/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akshatabakre/leethub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
@@ -1001,6 +1002,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/akshatabakre/leethub/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akshatabakre/leethub/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/akshatabakre/leethub/tree/master/0621-task-scheduler) |
@@ -1034,6 +1036,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatabakre/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/akshatabakre/leethub/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/akshatabakre/leethub/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshatabakre/leethub/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/akshatabakre/leethub/tree/master/0713-subarray-product-less-than-k) |
@@ -1452,6 +1455,7 @@ Record of leetcode submissions on github
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/akshatabakre/leethub/tree/master/0239-sliding-window-maximum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akshatabakre/leethub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/akshatabakre/leethub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2762-continuous-subarrays](https://github.com/akshatabakre/leethub/tree/master/2762-continuous-subarrays) |
@@ -1526,6 +1530,7 @@ Record of leetcode submissions on github
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/akshatabakre/leethub/tree/master/0239-sliding-window-maximum) |
 | [2762-continuous-subarrays](https://github.com/akshatabakre/leethub/tree/master/2762-continuous-subarrays) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Game Theory
