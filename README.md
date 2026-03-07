@@ -220,6 +220,7 @@ Record of leetcode submissions on github
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/akshatabakre/leethub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/akshatabakre/leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/akshatabakre/leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshatabakre/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akshatabakre/leethub/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1073,6 +1074,7 @@ Record of leetcode submissions on github
 | [0735-asteroid-collision](https://github.com/akshatabakre/leethub/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/akshatabakre/leethub/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1271,6 +1273,7 @@ Record of leetcode submissions on github
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/akshatabakre/leethub/tree/master/2227-sum-of-subarray-ranges) |
@@ -1340,6 +1343,7 @@ Record of leetcode submissions on github
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatabakre/leethub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/akshatabakre/leethub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
@@ -1380,6 +1384,7 @@ Record of leetcode submissions on github
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatabakre/leethub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/akshatabakre/leethub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
@@ -1473,6 +1478,7 @@ Record of leetcode submissions on github
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshatabakre/leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akshatabakre/leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akshatabakre/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
