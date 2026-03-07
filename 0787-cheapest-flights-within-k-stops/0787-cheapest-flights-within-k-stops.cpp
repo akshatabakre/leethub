@@ -19,7 +19,7 @@ public:
             }
             for(auto i:paths[node]){
                 int adjnode = i.first, c = i.second;
-                if(cost + c < dist[adjnode] && stops<=k){//*
+                if(cost + c < dist[adjnode]){//*
                     dist[adjnode] = cost + c;//updating destination here
                     q.push({stops+1,{adjnode,cost+c}});
                 }
