@@ -12,24 +12,22 @@
 class BSTIterator {
 public:
     stack<TreeNode*> st;
-    void pushNodes(TreeNode* root){
-        if(!root)   return;
+    BSTIterator(TreeNode* root) {
+        pushlefts(root);
+    }
+    
+    void pushlefts(TreeNode* root){
         TreeNode* curr = root;
         while(curr){
             st.push(curr);
             curr = curr->left;
         }
     }
-    BSTIterator(TreeNode* root) {
-        pushNodes(root);
-    }
-    
     int next() {
-        TreeNode* top = st.top();
-        int x = top->val;
+        TreeNode* curr = st.top();
         st.pop();
-        pushNodes(top->right);
-        return x;
+        pushlefts(curr->right);
+        return curr->val;
     }
     
     bool hasNext() {
