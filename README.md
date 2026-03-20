@@ -346,6 +346,7 @@ Record of leetcode submissions on github
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatabakre/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshatabakre/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/akshatabakre/leethub/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatabakre/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/akshatabakre/leethub/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshatabakre/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -850,6 +851,7 @@ Record of leetcode submissions on github
 | [3430-count-days-without-meetings](https://github.com/akshatabakre/leethub/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/akshatabakre/leethub/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatabakre/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/akshatabakre/leethub/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshatabakre/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshatabakre/leethub/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1163,6 +1165,7 @@ Record of leetcode submissions on github
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/akshatabakre/leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatabakre/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshatabakre/leethub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/3742-maximum-path-score-in-a-grid) |
