@@ -242,6 +242,7 @@ Record of leetcode submissions on github
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akshatabakre/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshatabakre/leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akshatabakre/leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshatabakre/leethub/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -879,6 +880,7 @@ Record of leetcode submissions on github
 | [1016-subarray-sums-divisible-by-k](https://github.com/akshatabakre/leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshatabakre/leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akshatabakre/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akshatabakre/leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1060,6 +1062,7 @@ Record of leetcode submissions on github
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akshatabakre/leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshatabakre/leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/akshatabakre/leethub/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatabakre/leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2478-longest-nice-subarray](https://github.com/akshatabakre/leethub/tree/master/2478-longest-nice-subarray) |
