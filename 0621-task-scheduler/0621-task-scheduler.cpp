@@ -1,44 +1,34 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        unordered_map<char, int> freq;
-        for (char task : tasks) {
-            freq[task]++;
+        map<char,int> freq;
+        map<char,int> timer;
+        int curr=0;
+        for(auto i:tasks){
+            freq[i]++;
         }
-
-        // Max heap to store frequencies
-        priority_queue<int> maxHeap;
-        for (auto& [task, f] : freq) {
-            maxHeap.push(f);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        for(auto i:freq){
+            timer[i.first]=1;
+            pq.push({timer[i.first],i.second});
         }
-
-        int time = 0;
-
-        while (!maxHeap.empty()) {
-            int cycle = n + 1;
-            vector<int> temp;
-
-            while (cycle > 0 && !maxHeap.empty()) {
-                int f = maxHeap.top();
-                maxHeap.pop();
-                if (f > 1) {
-                    temp.push_back(f - 1);
-                }
-                time++;
-                cycle--;
+        while(!pq.empty()){
+            // curr++;
+            int t=pq.top().first;
+            if(curr<t)
+                curr = t;
+            else
+                curr++;
+            int fr=pq.top().second;
+            if(t<=curr){
+                pq.pop();
+                if(fr-1>0)
+                pq.push({t+n+1,fr-1});
             }
-
-            for (int remaining : temp) {
-                maxHeap.push(remaining);
-            }
-
-            if (maxHeap.empty()) {
-                break;
-            }
-
-            time += cycle; // Add idle time if there are still tasks left
         }
+        return curr;
+        
 
-        return time;
+        
     }
 };
