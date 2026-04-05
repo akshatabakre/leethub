@@ -1,25 +1,40 @@
 class MedianFinder {
-    priority_queue<int> maxheap;
-    priority_queue<int,vector<int>,greater<int>> minheap;
 public:
-    MedianFinder(){
+        multiset<int> ms1, ms2;
+    MedianFinder() {
+        
     }
     
     void addNum(int num) {
-        maxheap.push(num);
-        minheap.push(maxheap.top());
-        maxheap.pop();
-        if(minheap.size()>maxheap.size()){
-            maxheap.push(minheap.top());
-            minheap.pop();
+        if(ms1.empty()){
+            ms1.insert(num);
+        }else{
+            if(num<=*ms1.rbegin()){
+                ms1.insert(num);
+            }else{
+                ms2.insert(num);
+            }
         }
+
+        if(ms1.size()>ms2.size()+1){
+                ms2.insert(*ms1.rbegin());
+                ms1.erase(ms1.find(*ms1.rbegin()));
+
+            }else if(ms2.size()>ms1.size()){
+                ms1.insert(*ms2.begin());
+                ms2.erase(ms2.find(*ms2.begin()));
+            }
     }
     
     double findMedian() {
-        if(maxheap.size()==minheap.size()){
-            return (double)(minheap.top()+maxheap.top())/2.0;
+        double median = 0;
+        if(ms1.size()==1+ms2.size()){
+            median = *ms1.rbegin();
+        }else{
+            median = *ms1.rbegin() + *ms2.begin();
+            median /= 2.0;
         }
-        return (double)maxheap.top();
+        return median;
     }
 };
 
