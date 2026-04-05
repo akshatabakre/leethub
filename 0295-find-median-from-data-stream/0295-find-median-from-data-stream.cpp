@@ -6,24 +6,14 @@ public:
     }
     
     void addNum(int num) {
-        if(ms1.empty()){
-            ms1.insert(num);
-        }else{
-            if(num<=*ms1.rbegin()){
-                ms1.insert(num);
-            }else{
-                ms2.insert(num);
-            }
+        ms2.insert(num);
+        ms1.insert(*ms2.begin());
+        ms2.erase(ms2.find(*ms2.begin()));
+        
+        if(ms1.size()>1+ms2.size()){
+            ms2.insert(*ms1.rbegin());
+            ms1.erase(ms1.find(*ms1.rbegin()));
         }
-
-        if(ms1.size()>ms2.size()+1){
-                ms2.insert(*ms1.rbegin());
-                ms1.erase(ms1.find(*ms1.rbegin()));
-
-            }else if(ms2.size()>ms1.size()){
-                ms1.insert(*ms2.begin());
-                ms2.erase(ms2.find(*ms2.begin()));
-            }
     }
     
     double findMedian() {
