@@ -393,6 +393,7 @@ Record of leetcode submissions on github
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/akshatabakre/leethub/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
@@ -1274,6 +1275,7 @@ Record of leetcode submissions on github
 | [3742-maximum-path-score-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
+| [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/akshatabakre/leethub/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Combinatorics
 |  |
