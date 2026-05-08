@@ -394,6 +394,7 @@ Record of leetcode submissions on github
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/akshatabakre/leethub/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
+| [3903-smallest-stable-index-i](https://github.com/akshatabakre/leethub/tree/master/3903-smallest-stable-index-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
@@ -914,6 +915,7 @@ Record of leetcode submissions on github
 | [3698-split-array-with-minimum-difference](https://github.com/akshatabakre/leethub/tree/master/3698-split-array-with-minimum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/akshatabakre/leethub/tree/master/3903-smallest-stable-index-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
 ## Depth-First Search
 |  |
