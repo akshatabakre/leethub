@@ -313,6 +313,7 @@ Record of leetcode submissions on github
 | [2529-range-product-queries-of-powers](https://github.com/akshatabakre/leethub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/akshatabakre/leethub/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/akshatabakre/leethub/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/akshatabakre/leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshatabakre/leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/akshatabakre/leethub/tree/master/2636-maximum-subsequence-score) |
@@ -563,6 +564,7 @@ Record of leetcode submissions on github
 | [2408-number-of-people-aware-of-a-secret](https://github.com/akshatabakre/leethub/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/akshatabakre/leethub/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/akshatabakre/leethub/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/akshatabakre/leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshatabakre/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2834-relocate-marbles](https://github.com/akshatabakre/leethub/tree/master/2834-relocate-marbles) |
 | [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
