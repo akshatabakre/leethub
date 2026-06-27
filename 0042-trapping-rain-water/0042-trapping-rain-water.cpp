@@ -1,30 +1,27 @@
 class Solution {
 public:
-    //PREFIX MAX/SUFFIX MAX
-    vector<int> leftmax(vector<int>& h,int n){
-        vector<int> lm(n);
-        lm[0] = h[0];
-        for(int i=1;i<n;i++){
-            lm[i] = max(lm[i-1],h[i]);
-        }
-        return lm;
-    }
-    vector<int> rightmax(vector<int>& h,int n){
-        vector<int> rm(n);
-        rm[n-1] = h[n-1];
-        for(int i=n-2;i>=0;i--){
-            rm[i] = max(rm[i+1],h[i]);
-        }
-        return rm;
-    }
     int trap(vector<int>& height) {
+        //2 POINTERS
+        #define int long long
         int n = height.size();
-        vector<int> left = leftmax(height,n);
-        vector<int> right = rightmax(height,n);
-        int ans = 0;
-        for(int i=0;i<n;i++){
-            ans+=(min(left[i],right[i])-height[i]);
+        int l=0,r=n-1;
+        int water = 0;
+        int lm = 0, rm = 0;
+        while(l<=r){
+            if(lm<=rm){
+                    lm=max(lm,1LL*height[l]);
+                    water += (lm-height[l]);
+                
+                l++;
+            }else{
+                    rm=max(rm,1LL*height[r]);
+                    water+=(rm-height[r]);
+                
+              
+                r--;
+            }
         }
-        return ans;
+        return water;
+        #undef int
     }
 };
