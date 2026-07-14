@@ -399,6 +399,7 @@ Record of leetcode submissions on github
 | [3903-smallest-stable-index-i](https://github.com/akshatabakre/leethub/tree/master/3903-smallest-stable-index-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/akshatabakre/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -627,6 +628,7 @@ Record of leetcode submissions on github
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshatabakre/leethub/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Trie
 |  |
 | ------- |
@@ -880,6 +882,7 @@ Record of leetcode submissions on github
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akshatabakre/leethub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akshatabakre/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Geometry
 |  |
 | ------- |
