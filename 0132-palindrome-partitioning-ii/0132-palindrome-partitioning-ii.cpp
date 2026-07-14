@@ -1,46 +1,41 @@
 class Solution {
 public:
-    bool isp(string& s){
-        if(s.length()==1)   return true;
-        int n = s.length();
-        for(int i=0;i<n/2;i++){
-            if(s[i]!=s[n-i-1]){
-                return false;
-            }
+    int n;
+    string s;
+    int pal[2001][2001], dp[2001];
+    int checkpal(int i,int j){
+        if(i>j){
+            return 1;
         }
-        return true;
+        if(pal[i][j]!=-1){
+            return pal[i][j];
+        }
+        if(s[i]!=s[j]){
+            return pal[i][j] = 0;
+        }
+        return pal[i][j] = checkpal(i+1,j-1);
     }
-    // int solve(int i,string& s,vector<int>& dp){
-    //     if(i==s.length()){
-    //         return 0;
-    //     }
-    //     if(dp[i]!=-1)   return dp[i];
-    //     int mincost = 1e9;
-    //     string temp = "";
-    //     for(int j=i;j<s.length();j++){
-    //         temp+=s[j];
-    //         if(isp(temp)){
-    //             mincost = min(1+solve(j+1,s,dp),mincost);
-    //         }
-    //     }
-    //     return dp[i] = mincost;
-    // }
-    int minCut(string s) {
-        int n = s.length();
-        vector<int> dp(n+1,0);
-        // return solve(0,s,dp)-1;
-        for(int i=n-1;i>=0;i--){
-            int mini = 1e9;
-            string temp="";
-            for(int j=i;j<n;j++){
-                temp+=s[j];
-                if(isp(temp)){
-                    int cost = 1 + dp[j+1];
-                    mini = min(cost,mini);
-                }
-            }
-            dp[i] = mini;
+    int solve(int i){
+        if(i>=n){
+            return 0;
         }
-        return dp[0]-1;
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        int mincuts = 1e9;
+        for(int j=i;j<n;j++){
+            if(checkpal(i,j)){
+                mincuts = min(mincuts,1+solve(j+1));
+            }
+
+        }
+        return dp[i] = mincuts;
+    }
+    int minCut(string s) {
+        this->n = s.length();
+        this->s = s;
+        memset(dp,-1,sizeof(dp));
+        memset(pal,-1,sizeof(pal));
+        return solve(0)-1;
     }
 };
