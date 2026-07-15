@@ -68,6 +68,7 @@ Record of leetcode submissions on github
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatabakre/leethub/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshatabakre/leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/akshatabakre/leethub/tree/master/3697-compute-decimal-representation) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/akshatabakre/leethub/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akshatabakre/leethub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -810,6 +811,7 @@ Record of leetcode submissions on github
 | [0204-count-primes](https://github.com/akshatabakre/leethub/tree/master/0204-count-primes) |
 | [1543-simplified-fractions](https://github.com/akshatabakre/leethub/tree/master/1543-simplified-fractions) |
 | [2610-closest-prime-numbers-in-range](https://github.com/akshatabakre/leethub/tree/master/2610-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akshatabakre/leethub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Sorting
