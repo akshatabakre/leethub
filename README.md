@@ -227,6 +227,7 @@ Record of leetcode submissions on github
 | [1016-subarray-sums-divisible-by-k](https://github.com/akshatabakre/leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshatabakre/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/akshatabakre/leethub/tree/master/1034-subarrays-with-k-different-integers) |
+| [1034-coloring-a-border](https://github.com/akshatabakre/leethub/tree/master/1034-coloring-a-border) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshatabakre/leethub/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -969,6 +970,7 @@ Record of leetcode submissions on github
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akshatabakre/leethub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-coloring-a-border](https://github.com/akshatabakre/leethub/tree/master/1034-coloring-a-border) |
 | [1073-number-of-enclaves](https://github.com/akshatabakre/leethub/tree/master/1073-number-of-enclaves) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/akshatabakre/leethub/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1182,6 +1184,7 @@ Record of leetcode submissions on github
 | [0794-swim-in-rising-water](https://github.com/akshatabakre/leethub/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/akshatabakre/leethub/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/akshatabakre/leethub/tree/master/0967-minimum-falling-path-sum) |
+| [1034-coloring-a-border](https://github.com/akshatabakre/leethub/tree/master/1034-coloring-a-border) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/akshatabakre/leethub/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akshatabakre/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1476,6 +1479,7 @@ Record of leetcode submissions on github
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatabakre/leethub/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-coloring-a-border](https://github.com/akshatabakre/leethub/tree/master/1034-coloring-a-border) |
 | [1036-rotting-oranges](https://github.com/akshatabakre/leethub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/akshatabakre/leethub/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatabakre/leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
