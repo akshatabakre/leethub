@@ -29,11 +29,11 @@ public:
                 leftIndex = min(currInd,leftIndex);
                 rightIndex = max(currInd,rightIndex);
                 if(node->left){
-                    ll leftInd = 2*currInd;
+                    ll leftInd = 2*currInd + 1;
                     q.push({node->left,leftInd});
                 }
                 if(node->right){
-                    ll rightInd = 2*currInd + 1;
+                    ll rightInd = 2*currInd + 2;
                     q.push({node->right,rightInd});
                 }
             }
