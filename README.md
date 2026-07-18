@@ -257,6 +257,7 @@ Record of leetcode submissions on github
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akshatabakre/leethub/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/akshatabakre/leethub/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/akshatabakre/leethub/tree/master/1584-min-cost-to-connect-all-points) |
+| [1591-strange-printer-ii](https://github.com/akshatabakre/leethub/tree/master/1591-strange-printer-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akshatabakre/leethub/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshatabakre/leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1196,6 +1197,7 @@ Record of leetcode submissions on github
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akshatabakre/leethub/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1591-strange-printer-ii](https://github.com/akshatabakre/leethub/tree/master/1591-strange-printer-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akshatabakre/leethub/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/akshatabakre/leethub/tree/master/1753-path-with-minimum-effort) |
@@ -1571,6 +1573,7 @@ Record of leetcode submissions on github
 | [0207-course-schedule](https://github.com/akshatabakre/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akshatabakre/leethub/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/akshatabakre/leethub/tree/master/0820-find-eventual-safe-states) |
+| [1591-strange-printer-ii](https://github.com/akshatabakre/leethub/tree/master/1591-strange-printer-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshatabakre/leethub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -1618,6 +1621,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1591-strange-printer-ii](https://github.com/akshatabakre/leethub/tree/master/1591-strange-printer-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/akshatabakre/leethub/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3710-maximum-partition-factor](https://github.com/akshatabakre/leethub/tree/master/3710-maximum-partition-factor) |
 ## Union-Find
