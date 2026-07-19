@@ -648,6 +648,7 @@ Record of leetcode submissions on github
 | [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshatabakre/leethub/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/akshatabakre/leethub/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/akshatabakre/leethub/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/akshatabakre/leethub/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -681,6 +682,7 @@ Record of leetcode submissions on github
 | [0127-word-ladder](https://github.com/akshatabakre/leethub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/akshatabakre/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshatabakre/leethub/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/akshatabakre/leethub/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/akshatabakre/leethub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
@@ -1500,6 +1502,7 @@ Record of leetcode submissions on github
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshatabakre/leethub/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/akshatabakre/leethub/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/akshatabakre/leethub/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshatabakre/leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1616,6 +1619,7 @@ Record of leetcode submissions on github
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshatabakre/leethub/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshatabakre/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Graph Theory
 |  |
