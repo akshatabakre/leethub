@@ -63,6 +63,7 @@ Record of leetcode submissions on github
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatabakre/leethub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshatabakre/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -354,6 +355,7 @@ Record of leetcode submissions on github
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/akshatabakre/leethub/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshatabakre/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshatabakre/leethub/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatabakre/leethub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3531-count-covered-buildings](https://github.com/akshatabakre/leethub/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatabakre/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/akshatabakre/leethub/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -447,6 +449,7 @@ Record of leetcode submissions on github
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshatabakre/leethub/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/akshatabakre/leethub/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatabakre/leethub/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatabakre/leethub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -1170,6 +1173,7 @@ Record of leetcode submissions on github
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akshatabakre/leethub/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatabakre/leethub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
