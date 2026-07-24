@@ -89,6 +89,7 @@ Record of leetcode submissions on github
 | [0031-next-permutation](https://github.com/akshatabakre/leethub/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/akshatabakre/leethub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/akshatabakre/leethub/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akshatabakre/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/akshatabakre/leethub/tree/master/0283-move-zeroes) |
@@ -652,6 +653,7 @@ Record of leetcode submissions on github
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshatabakre/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshatabakre/leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/akshatabakre/leethub/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/akshatabakre/leethub/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatabakre/leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/akshatabakre/leethub/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/akshatabakre/leethub/tree/master/0460-lfu-cache) |
@@ -832,6 +834,7 @@ Record of leetcode submissions on github
 | [0049-group-anagrams](https://github.com/akshatabakre/leethub/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/akshatabakre/leethub/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/akshatabakre/leethub/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/akshatabakre/leethub/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatabakre/leethub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/akshatabakre/leethub/tree/master/0229-majority-element-ii) |
@@ -1364,6 +1367,7 @@ Record of leetcode submissions on github
 | [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/akshatabakre/leethub/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshatabakre/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/akshatabakre/leethub/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akshatabakre/leethub/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/akshatabakre/leethub/tree/master/0347-top-k-frequent-elements) |
@@ -1601,6 +1605,7 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshatabakre/leethub/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/akshatabakre/leethub/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akshatabakre/leethub/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
