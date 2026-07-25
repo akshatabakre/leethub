@@ -64,6 +64,7 @@ Record of leetcode submissions on github
 | [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatabakre/leethub/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshatabakre/leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshatabakre/leethub/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/akshatabakre/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -888,6 +889,7 @@ Record of leetcode submissions on github
 | [3430-count-days-without-meetings](https://github.com/akshatabakre/leethub/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/akshatabakre/leethub/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshatabakre/leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatabakre/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/akshatabakre/leethub/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/akshatabakre/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
