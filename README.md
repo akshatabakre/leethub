@@ -19,6 +19,7 @@ Record of leetcode submissions on github
 | [0368-largest-divisible-subset](https://github.com/akshatabakre/leethub/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/akshatabakre/leethub/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/akshatabakre/leethub/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/akshatabakre/leethub/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/akshatabakre/leethub/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/akshatabakre/leethub/tree/master/0537-complex-number-multiplication) |
@@ -193,6 +194,7 @@ Record of leetcode submissions on github
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatabakre/leethub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/akshatabakre/leethub/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/akshatabakre/leethub/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/akshatabakre/leethub/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/akshatabakre/leethub/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
@@ -675,6 +677,7 @@ Record of leetcode submissions on github
 | [0060-permutation-sequence](https://github.com/akshatabakre/leethub/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/akshatabakre/leethub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akshatabakre/leethub/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akshatabakre/leethub/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshatabakre/leethub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshatabakre/leethub/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1268,6 +1271,7 @@ Record of leetcode submissions on github
 | [0322-coin-change](https://github.com/akshatabakre/leethub/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/akshatabakre/leethub/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/akshatabakre/leethub/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/akshatabakre/leethub/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/akshatabakre/leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/akshatabakre/leethub/tree/master/0542-01-matrix) |
@@ -1630,6 +1634,7 @@ Record of leetcode submissions on github
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Minimum Spanning Tree
@@ -1656,9 +1661,11 @@ Record of leetcode submissions on github
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
