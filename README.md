@@ -29,6 +29,7 @@ Record of leetcode submissions on github
 | [1303-minimum-moves-to-reach-target-score](https://github.com/akshatabakre/leethub/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/akshatabakre/leethub/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatabakre/leethub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/akshatabakre/leethub/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akshatabakre/leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -248,6 +249,7 @@ Record of leetcode submissions on github
 | [1370-count-number-of-nice-subarrays](https://github.com/akshatabakre/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/akshatabakre/leethub/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akshatabakre/leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshatabakre/leethub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akshatabakre/leethub/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1283,6 +1285,7 @@ Record of leetcode submissions on github
 | [1170-shortest-common-supersequence](https://github.com/akshatabakre/leethub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/akshatabakre/leethub/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akshatabakre/leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/akshatabakre/leethub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akshatabakre/leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshatabakre/leethub/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -1627,6 +1630,7 @@ Record of leetcode submissions on github
 ## Game Theory
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
 ## Minimum Spanning Tree
 |  |
@@ -1649,4 +1653,12 @@ Record of leetcode submissions on github
 |  |
 | ------- |
 | [3710-maximum-partition-factor](https://github.com/akshatabakre/leethub/tree/master/3710-maximum-partition-factor) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
