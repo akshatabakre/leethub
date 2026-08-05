@@ -999,6 +999,7 @@ Record of leetcode submissions on github
 | [1442-number-of-operations-to-make-network-connected](https://github.com/akshatabakre/leethub/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/akshatabakre/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/akshatabakre/leethub/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/akshatabakre/leethub/tree/master/3310-remove-methods-from-project) |
 | [3710-maximum-partition-factor](https://github.com/akshatabakre/leethub/tree/master/3710-maximum-partition-factor) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 ## String Matching
@@ -1517,6 +1518,7 @@ Record of leetcode submissions on github
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/akshatabakre/leethub/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/akshatabakre/leethub/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/akshatabakre/leethub/tree/master/3310-remove-methods-from-project) |
 | [3710-maximum-partition-factor](https://github.com/akshatabakre/leethub/tree/master/3710-maximum-partition-factor) |
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
@@ -1652,6 +1654,7 @@ Record of leetcode submissions on github
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akshatabakre/leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1591-strange-printer-ii](https://github.com/akshatabakre/leethub/tree/master/1591-strange-printer-ii) |
+| [3310-remove-methods-from-project](https://github.com/akshatabakre/leethub/tree/master/3310-remove-methods-from-project) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/akshatabakre/leethub/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3710-maximum-partition-factor](https://github.com/akshatabakre/leethub/tree/master/3710-maximum-partition-factor) |
 ## Union-Find
