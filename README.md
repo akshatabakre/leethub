@@ -62,6 +62,7 @@ Record of leetcode submissions on github
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/akshatabakre/leethub/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshatabakre/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/akshatabakre/leethub/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/akshatabakre/leethub/tree/master/3462-vowels-game-in-a-string) |
@@ -1186,6 +1187,7 @@ Record of leetcode submissions on github
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akshatabakre/leethub/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshatabakre/leethub/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshatabakre/leethub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshatabakre/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatabakre/leethub/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
