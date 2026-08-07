@@ -325,6 +325,7 @@ Record of leetcode submissions on github
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akshatabakre/leethub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/akshatabakre/leethub/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/akshatabakre/leethub/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2536-increment-submatrices-by-one](https://github.com/akshatabakre/leethub/tree/master/2536-increment-submatrices-by-one) |
 | [2551-apply-operations-to-an-array](https://github.com/akshatabakre/leethub/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshatabakre/leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/akshatabakre/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -938,6 +939,7 @@ Record of leetcode submissions on github
 | [2465-shifting-letters-ii](https://github.com/akshatabakre/leethub/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akshatabakre/leethub/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/akshatabakre/leethub/tree/master/2529-range-product-queries-of-powers) |
+| [2536-increment-submatrices-by-one](https://github.com/akshatabakre/leethub/tree/master/2536-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akshatabakre/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshatabakre/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/akshatabakre/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1230,6 +1232,7 @@ Record of leetcode submissions on github
 | [2145-grid-game](https://github.com/akshatabakre/leethub/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/akshatabakre/leethub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatabakre/leethub/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2536-increment-submatrices-by-one](https://github.com/akshatabakre/leethub/tree/master/2536-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshatabakre/leethub/tree/master/2685-first-completely-painted-row-or-column) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatabakre/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshatabakre/leethub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
