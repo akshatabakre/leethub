@@ -505,6 +505,7 @@ Record of leetcode submissions on github
 | [0812-rotate-string](https://github.com/akshatabakre/leethub/tree/master/0812-rotate-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/akshatabakre/leethub/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akshatabakre/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/akshatabakre/leethub/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshatabakre/leethub/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -613,6 +614,7 @@ Record of leetcode submissions on github
 | [0846-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/akshatabakre/leethub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/akshatabakre/leethub/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshatabakre/leethub/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/akshatabakre/leethub/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -1144,6 +1146,7 @@ Record of leetcode submissions on github
 | [0496-next-greater-element-i](https://github.com/akshatabakre/leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatabakre/leethub/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/akshatabakre/leethub/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0943-sum-of-subarray-minimums](https://github.com/akshatabakre/leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatabakre/leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1676,4 +1679,8 @@ Record of leetcode submissions on github
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshatabakre/leethub/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/akshatabakre/leethub/tree/master/1406-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshatabakre/leethub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
