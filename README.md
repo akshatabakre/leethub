@@ -416,6 +416,7 @@ Record of leetcode submissions on github
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/akshatabakre/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
@@ -596,6 +597,7 @@ Record of leetcode submissions on github
 | [3616-make-array-elements-equal-to-zero](https://github.com/akshatabakre/leethub/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/akshatabakre/leethub/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshatabakre/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
@@ -797,6 +799,7 @@ Record of leetcode submissions on github
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshatabakre/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/akshatabakre/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
@@ -828,6 +831,7 @@ Record of leetcode submissions on github
 | [3583-count-special-triplets](https://github.com/akshatabakre/leethub/tree/master/3583-count-special-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshatabakre/leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshatabakre/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -910,6 +914,7 @@ Record of leetcode submissions on github
 | [3748-sort-matrix-by-diagonals](https://github.com/akshatabakre/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Geometry
 |  |
 | ------- |
@@ -1099,6 +1104,7 @@ Record of leetcode submissions on github
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/akshatabakre/leethub/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/akshatabakre/leethub/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1556,6 +1562,7 @@ Record of leetcode submissions on github
 | [3791-fruits-into-baskets-iii](https://github.com/akshatabakre/leethub/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/akshatabakre/leethub/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Queue
 |  |
 | ------- |
