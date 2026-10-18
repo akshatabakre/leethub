@@ -420,6 +420,7 @@ Record of leetcode submissions on github
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/akshatabakre/leethub/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/akshatabakre/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -925,6 +926,7 @@ Record of leetcode submissions on github
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/akshatabakre/leethub/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Geometry
 |  |
@@ -1067,6 +1069,7 @@ Record of leetcode submissions on github
 | [3791-fruits-into-baskets-iii](https://github.com/akshatabakre/leethub/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/akshatabakre/leethub/tree/master/3827-implement-router) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/akshatabakre/leethub/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Union Find
 |  |
 | ------- |
