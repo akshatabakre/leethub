@@ -419,6 +419,7 @@ Record of leetcode submissions on github
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/akshatabakre/leethub/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4045-longest-balanced-subarray-i](https://github.com/akshatabakre/leethub/tree/master/4045-longest-balanced-subarray-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/akshatabakre/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -923,6 +924,7 @@ Record of leetcode submissions on github
 | [3748-sort-matrix-by-diagonals](https://github.com/akshatabakre/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/akshatabakre/leethub/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Geometry
 |  |
@@ -1064,6 +1066,7 @@ Record of leetcode submissions on github
 | [3710-maximum-partition-factor](https://github.com/akshatabakre/leethub/tree/master/3710-maximum-partition-factor) |
 | [3791-fruits-into-baskets-iii](https://github.com/akshatabakre/leethub/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/akshatabakre/leethub/tree/master/3827-implement-router) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1214,6 +1217,7 @@ Record of leetcode submissions on github
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Matrix
 |  |
 | ------- |
