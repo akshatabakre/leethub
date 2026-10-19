@@ -291,6 +291,7 @@ Record of leetcode submissions on github
 | [1940-maximum-xor-for-each-query](https://github.com/akshatabakre/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatabakre/leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshatabakre/leethub/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akshatabakre/leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshatabakre/leethub/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/akshatabakre/leethub/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -893,6 +894,7 @@ Record of leetcode submissions on github
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akshatabakre/leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akshatabakre/leethub/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akshatabakre/leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akshatabakre/leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/akshatabakre/leethub/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshatabakre/leethub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshatabakre/leethub/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1057,6 +1059,7 @@ Record of leetcode submissions on github
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshatabakre/leethub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/akshatabakre/leethub/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshatabakre/leethub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akshatabakre/leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akshatabakre/leethub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/akshatabakre/leethub/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshatabakre/leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
