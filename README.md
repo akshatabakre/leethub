@@ -83,6 +83,7 @@ Record of leetcode submissions on github
 | [3830-find-closest-person](https://github.com/akshatabakre/leethub/tree/master/3830-find-closest-person) |
 | [3831-find-x-value-of-array-i](https://github.com/akshatabakre/leethub/tree/master/3831-find-x-value-of-array-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3886-sum-of-sortable-integers](https://github.com/akshatabakre/leethub/tree/master/3886-sum-of-sortable-integers) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Two Pointers
 |  |
@@ -414,6 +415,7 @@ Record of leetcode submissions on github
 | [3837-grid-teleportation-traversal](https://github.com/akshatabakre/leethub/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/akshatabakre/leethub/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3886-sum-of-sortable-integers](https://github.com/akshatabakre/leethub/tree/master/3886-sum-of-sortable-integers) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/akshatabakre/leethub/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3903-smallest-stable-index-i](https://github.com/akshatabakre/leethub/tree/master/3903-smallest-stable-index-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/akshatabakre/leethub/tree/master/3907-count-prime-gap-balanced-subarrays) |
@@ -926,6 +928,7 @@ Record of leetcode submissions on github
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/akshatabakre/leethub/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akshatabakre/leethub/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/akshatabakre/leethub/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3886-sum-of-sortable-integers](https://github.com/akshatabakre/leethub/tree/master/3886-sum-of-sortable-integers) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/akshatabakre/leethub/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/akshatabakre/leethub/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
@@ -1223,6 +1226,7 @@ Record of leetcode submissions on github
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshatabakre/leethub/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatabakre/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/akshatabakre/leethub/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3886-sum-of-sortable-integers](https://github.com/akshatabakre/leethub/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/akshatabakre/leethub/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Matrix
 |  |
